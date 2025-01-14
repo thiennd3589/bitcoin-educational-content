@@ -1349,28 +1349,4 @@ V roce 2011 Satoshi zmizel, ale Bitcoin přežil. Kryptoměna dokonce definitivn
 <isCourseExam>true</isCourseExam>
 ## Závěr
 <chapterId>9c501c44-0f1a-449e-8ab3-a5873abe4db6</chapterId>
-Gratulujeme k dokončení tohoto kurzu!
-
-Jsme potěšeni, že jste dosáhli tohoto důležitého milníku ve své vzdělávací cestě.
-
-Díky vaší oddanosti a závazku jste získali cenné znalosti a dovednosti, které vám poslouží ve vašem profesním rozvoji.
-
-Pro další hlubší zkoumání světa Bitcoinu vás zveme k objevování všech dalších kurzů dostupných na Plan ₿ Network:
-
-#### Objevte Bitcoin a jeho základy s
-https://planb.network/courses/btc101
-
-#### Objevte rakouskou školu ekonomie s
-https://planb.network/courses/eco201
-
-#### Získejte a zabezpečte své první bitcoiny s
-https://planb.network/courses/btc102
-
-#### Aktualizujte svou online bezpečnost s
-https://planb.network/courses/scu101
-
-#### Objevte vývoj svobody v průběhu věků s
-https://planb.network/courses/phi201
-
-#### Pochopte základy těžby s
-https://planb.network/courses/min201
+<isCourseConclusion>true</isCourseConclusion>

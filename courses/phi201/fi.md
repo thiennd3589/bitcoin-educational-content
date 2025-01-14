@@ -1443,28 +1443,4 @@ Kaikki, mitä tapahtuu globaalissa yhteiskunnassamme, on ideoiden tulosta. Sekä
 <isCourseExam>true</isCourseExam>
 ## Yhteenveto
 <chapterId>594691db-1ecb-4914-bcb2-5a88f50ca0a5</chapterId>
-Onnittelut kurssin suorittamisesta!
-
-Olemme iloisia, että olet saavuttanut tämän tärkeän virstanpylvään oppimismatkallasi.
-
-Omistautumisesi ja sitoutumisesi ansiosta olet hankkinut arvokasta tietoa ja taitoja, jotka palvelevat sinua ammatillisessa kehityksessäsi.
-
-Jatkaaksesi Bitcoin-maailman syvällistä tutkimista, kutsumme sinut tutustumaan kaikkiin muihin Plan ₿ Networkissa saatavilla oleviin kursseihin:
-
-#### Tutustu F. Bastiatin elämään
-https://planb.network/courses/eco102
-
-#### Tutustu Bitcoiniin ja sen perusteisiin
-https://planb.network/courses/btc101
-
-#### Tutustu Lightning Networkiin
-https://planb.network/courses/lnp201
-
-#### Hallitse Bitcoinin yksityisyyden periaatteet
-https://planb.network/courses/btc204
-
-#### Tutustu Bitcoinin alkuperän historiaan
-https://planb.network/courses/his201
-
-#### Ymmärrä kuinka Bitcoin-lompakko toimii
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>

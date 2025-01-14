@@ -1649,35 +1649,4 @@ Budoucnost je světlá!
 ## Závěr
 
 <chapterId>189d80ac-f10e-4a0d-9db8-400523cad978</chapterId>
-
-Gratulujeme k dokončení tohoto kurzu!
-
-Jsme nadšeni, že jste úspěšně dosáhli tohoto milníku ve své vzdělávací cestě.
-
-Díky vaší oddanosti a zapojení jste získali cenné znalosti a dovednosti, které vám dobře poslouží ve vašem profesním rozvoji.
-
-Pro další hlubší ponoření do světa Bitcoinu vás zveme k prozkoumání všech dalších kurzů dostupných na Plan ₿ Network:
-
-#### Objevte Bitcoin a jeho základy s
-
-https://planb.network/courses/btc101
-
-#### Aktualizujte svou online bezpečnost s
-
-https://planb.network/courses/scu101
-
-#### Objevte Lightning Network s
-
-https://planb.network/courses/lnp201
-
-#### Naučte se o ekonomickém myšlení rakouské školy s
-
-https://planb.network/courses/eco201
-
-#### Objevte historii počátků Bitcoinu s
-
-https://planb.network/courses/his201
-
-#### Pochopte vznik hyperinflací s
-
-https://planb.network/courses/eco204
+<isCourseConclusion>true</isCourseConclusion>

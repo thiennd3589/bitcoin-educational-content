@@ -1297,25 +1297,4 @@ Perubahan sistem finansial memerlukan penggantian mata uang. Satoshi menciptakan
 ## Kesimpulan
 
 <chapterId>dfc534be-44a9-5e8c-9c98-e51ef0554e91</chapterId>
-
-Selamat atas penyelesaian pelatihan BTC 101! Saya sangat berharap Anda menikmatinya dan pelatihan ini membuka pintu-pintu baru untuk Anda. Perjalanan Anda dalam mengenal Bitcoin baru saja dimulai dan saya mengundang Anda untuk menjelajahi semua kursus lain yang tersedia di Plan ₿ Network:
-
-#### Dapatkan dan amankan bitcoin pertama Anda dengan
-
-https://planb.network/courses/btc102
-
-#### Temukan Lightning Network dengan
-
-https://planb.network/courses/lnp201
-
-#### Pelajari Sekolah Pemikiran Ekonomi Austria dengan
-
-https://planb.network/courses/eco201
-
-#### Perbarui keamanan online Anda dengan
-
-https://planb.network/courses/scu101
-
-#### Pahami dasar-dasar Bitcoin dan bangun pemanas rumah Anda dengan
-
-https://planb.network/courses/min201
+<isCourseConclusion>true</isCourseConclusion>

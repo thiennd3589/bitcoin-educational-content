@@ -1442,28 +1442,4 @@ Alles, was in der globalen Gesellschaft, in der wir leben, geschieht, ist das Er
 <isCourseExam>true</isCourseExam>
 ## Abschluss
 <chapterId>594691db-1ecb-4914-bcb2-5a88f50ca0a5</chapterId>
-Herzlichen Glückwunsch zum Abschluss dieses Kurses!
-
-Wir freuen uns, dass Sie diesen wichtigen Meilenstein in Ihrer Lernreise erreicht haben.
-
-Dank Ihrer Hingabe und Ihres Engagements haben Sie wertvolles Wissen und Fähigkeiten erworben, die Ihnen in Ihrer beruflichen Entwicklung dienen werden.
-
-Um das Bitcoin-Universum weiter zu erforschen, laden wir Sie ein, alle anderen verfügbaren Kurse auf Plan ₿ Network zu entdecken:
-
-#### Entdecken Sie das Leben von F. Bastiat mit
-https://planb.network/courses/eco102
-
-#### Entdecken Sie Bitcoin und seine Grundlagen mit
-https://planb.network/courses/btc101
-
-#### Entdecken Sie das Lightning Network mit
-https://planb.network/courses/lnp201
-
-#### Beherrschen Sie die Prinzipien der Privatsphäre auf Bitcoin
-https://planb.network/courses/btc204
-
-#### Entdecken Sie die Geschichte der Ursprünge von Bitcoin mit
-https://planb.network/courses/his201
-
-#### Verstehen Sie, wie die Bitcoin-Wallet funktioniert mit
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>

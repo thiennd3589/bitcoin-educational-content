@@ -565,38 +565,4 @@ Kromě těchto čtení můžete také najít informace o rakouské ekonomii proz
 ## Závěr
 
 <chapterId>d668fdf6-fb4c-4bbf-82e1-afcb95c122e0</chapterId>
-Gratulujeme k dokončení tohoto kurzu!
-
-Jsme potěšeni, že jste dosáhli tohoto důležitého milníku ve své vzdělávací cestě.
-
-Díky vaší oddanosti a odhodlání jste získali cenné znalosti a dovednosti, které vám poslouží ve vašem profesním rozvoji.
-
-Pro další hlubší zkoumání světa Bitcoinu vás zveme k objevování všech dalších kurzů dostupných na Plan ₿ Network:
-
-#### Objevte život F. Bastiata s
-
-https://planb.network/courses/eco102
-
-#### Pochopte vznik hyperinflací s
-
-https://planb.network/courses/eco204
-
-#### Objevte Bitcoin a jeho základy s
-
-https://planb.network/courses/btc101
-
-#### Aktualizujte svou online bezpečnost s
-
-https://planb.network/courses/scu101
-
-#### Objevte Lightning Network s
-
-https://planb.network/courses/lnp201
-
-#### Naučte se vytvořit svou Bitcoin komunitu s
-
-https://planb.network/courses/btc302
-
-#### Pochopte, jak funguje Bitcoin peněženka s
-
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>

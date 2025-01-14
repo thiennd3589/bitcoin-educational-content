@@ -567,39 +567,4 @@ Nende teoste lugemise ja nende veebiallikate uurimisega saate arendada sügavama
 ## Kokkuvõte
 
 <chapterId>d668fdf6-fb4c-4bbf-82e1-afcb95c122e0</chapterId>
-Palju õnne kursuse lõpetamise puhul!
-
-Meil on hea meel, et olete jõudnud selle olulise tähiseni oma õppimisteel.
-
-Tänu teie pühendumusele ja pühendumisele olete omandanud väärtuslikud teadmised ja oskused, mis teenivad teid teie professionaalses arengus.
-
-Bitcoini universumi põhjalikumaks uurimiseks kutsume teid avastama kõiki teisi Plan ₿ Networkis saadaolevaid kursusi:
-
-#### Avastage F. Bastiat' elu koos kursusega
-
-https://planb.network/courses/eco102
-
-#### Mõistke hüperinflatsioonide teket koos kursusega
-
-https://planb.network/courses/eco204
-
-#### Avastage Bitcoin ja selle põhitõed koos kursusega
-
-https://planb.network/courses/btc101
-
-#### Uuendage oma veebiturvalisust koos kursusega
-
-https://planb.network/courses/scu101
-
-#### Avastage Lightning Network koos kursusega
-
-https://planb.network/courses/lnp201
-
-#### Õppige looma oma Bitcoini kogukonda koos kursusega
-
-https://planb.network/courses/btc302
-
-#### Mõistke, kuidas Bitcoin-rahakott töötab koos kursusega
-
-https://planb.network/courses/cyp201
-
+<isCourseConclusion>true</isCourseConclusion>

@@ -1381,34 +1381,4 @@ Tutto ciò che accade nella società globale in cui viviamo è il risultato dell
 ## Conclusione
 
 <chapterId>594691db-1ecb-4914-bcb2-5a88f50ca0a5</chapterId>
-Congratulazioni per aver completato questo corso!
-
-Siamo lieti che tu abbia raggiunto questo importante traguardo nel tuo percorso di apprendimento.
-
-Grazie alla tua dedizione e al tuo impegno, hai acquisito preziose conoscenze e competenze che ti serviranno nel tuo sviluppo professionale.
-
-Per continuare ad esplorare in profondità l'universo Bitcoin, ti invitiamo a scoprire tutti gli altri corsi disponibili su Plan ₿ Network:
-
-#### Scopri la vita di F. Bastiat con
-
-https://planb.network/courses/eco102
-
-#### Scopri Bitcoin e i suoi fondamenti con
-
-https://planb.network/courses/btc101
-
-#### Scopri il Lightning Network con
-
-https://planb.network/courses/lnp201
-
-#### Padroneggia i principi della privacy su Bitcoin
-
-https://planb.network/courses/btc204
-
-#### Scopri la storia delle origini di Bitcoin con
-
-https://planb.network/courses/his201
-
-#### Capisci come funziona il portafoglio Bitcoin con
-
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>

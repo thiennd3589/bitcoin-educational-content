@@ -1018,40 +1018,4 @@ We have seen that liquidity management is a challenge on Lightning to ensure the
 ## Conclusion
 
 <chapterId>afc0d72b-4fbc-5893-90b2-e27fb519ad02</chapterId>
-Congratulations! 🎉
-
-You have completed the LNP 201 training - Introduction to Lightning Network!
-
-You can be proud of yourself, as this is not an easy subject.
-
-Few people venture this deep into the Bitcoin rabbit hole.
-
-A big thank you to **Fanis Michalakis** for providing this great free course on the technical workings of the Lightning Network.
-
-Feel free to follow him on [Twitter](https://x.com/FanisMichalakis), on [his blog](https://fanismichalakis.fr/) or through his work at [LN Markets](https://lnmarkets.com/).
-
-Now that you master the Lightning Network, I invite you to explore our other free courses on Plan ₿ Network to deepen your understanding of other aspects of Satoshi Nakamoto's invention:
-
-#### Understand how a Bitcoin wallet works with
-
-https://planb.network/courses/cyp201
-
-#### Discover the history of Bitcoin's origins with
-
-https://planb.network/courses/his201
-
-#### Configure a BTC payment server with
-
-https://planb.network/courses/btc305
-
-#### Master the principles of privacy in Bitcoin
-
-https://planb.network/courses/btc204
-
-#### Discover the basics of mining with
-
-https://planb.network/courses/min201
-
-#### Learn to create your Bitcoin community with
-
-https://planb.network/courses/btc302
+<isCourseConclusion>true</isCourseConclusion>

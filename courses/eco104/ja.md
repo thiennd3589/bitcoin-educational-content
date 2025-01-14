@@ -1616,23 +1616,4 @@ Tetherのステーブルコインは、経済的な課題に直面している�
 <isCourseReview>true</isCourseReview>
 ## まとめ
 <chapterId>189d80ac-f10e-4a0d-9db8-400523cad978</chapterId>
-このコースを修了おめでとうございます！
-
-学習の道のりにおいてこの節目を達成されたことを心よりお喜び申し上げます。
-
-あなたの献身と取り組みを通じて、専門的な成長に役立つ貴重な知識とスキルを習得されました。
-
-ビットコインの世界をさらに深く探求するため、Plan ₿ Networkで提供されている他のすべてのコースをご覧ください：
-
-#### ビットコインとその基礎を学ぶ
-https://planb.network/courses/btc101
-#### オンラインセキュリティを更新する
-https://planb.network/courses/scu101
-#### ライトニングネットワークを探求する
-https://planb.network/courses/lnp201
-#### オーストリア学派の経済思想を学ぶ
-https://planb.network/courses/eco201
-#### ビットコインの起源の歴史を探る
-https://planb.network/courses/his201
-#### ハイパーインフレーションの発生を理解する
-https://planb.network/courses/eco204
+<isCourseConclusion>true</isCourseConclusion>

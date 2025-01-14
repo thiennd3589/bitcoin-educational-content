@@ -119,13 +119,4 @@ Good luck with your studies, and if you need to reach out to our team or the tea
 
 ## closing Word
 <chapterId>0309536d-c336-56a0-869e-a8395ed8d9ae</chapterId>
-
-Thank you for participating in the RGB courses offered by Plan ₿ Network in collaboration with Fulgur'Ventures. We extend our gratitude to our teachers for their support. If you are interested in continuing your work with RGB, here is a useful list of resources for you to explore:
-
-- https://rgb.tech/
-- https://www.rgbfaq.com/
-- https://rgb.tech/docs/
-- https://www.youtube.com/LNP-BP
-- https://twitter.com/lnp_bp
-
-Thank you and best of luck with your studies at Plan ₿ Network.
+<isCourseConclusion>true</isCourseConclusion>

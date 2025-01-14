@@ -1464,28 +1464,4 @@ Nhưng trái với những gì các nhà tiên tri về ngày tận thế tuyên
 <isCourseExam>true</isCourseExam>
 ## Kết luận
 <chapterId>594691db-1ecb-4914-bcb2-5a88f50ca0a5</chapterId>
-Chúc mừng bạn đã hoàn thành khóa học này!
-
-Chúng tôi rất vui mừng khi bạn đã đạt được cột mốc quan trọng này trong hành trình học tập của mình.
-
-Nhờ sự tận tâm và cam kết của bạn, bạn đã thu được những kiến thức và kỹ năng quý giá sẽ phục vụ cho sự phát triển nghề nghiệp của bạn.
-
-Để tiếp tục khám phá sâu rộng vũ trụ Bitcoin, chúng tôi mời bạn khám phá tất cả các khóa học khác có sẵn trên Plan ₿ Network:
-
-#### Khám phá cuộc đời của F. Bastiat với
-https://planb.network/courses/eco102
-
-#### Khám phá Bitcoin và các nguyên lý cơ bản với
-https://planb.network/courses/btc101
-
-#### Khám phá Lightning Network với
-https://planb.network/courses/lnp201
-
-#### Làm chủ các nguyên tắc quyền riêng tư trên Bitcoin
-https://planb.network/courses/btc204
-
-#### Khám phá lịch sử nguồn gốc của Bitcoin với
-https://planb.network/courses/his201
-
-#### Hiểu cách hoạt động của ví Bitcoin với
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>

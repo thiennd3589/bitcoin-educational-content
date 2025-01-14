@@ -1369,28 +1369,4 @@ jimbobway在论坛上发布的与美元等值那天的照片（来源：[Bitcoin
 <isCourseExam>true</isCourseExam>
 ## 总结
 <chapterId>9c501c44-0f1a-449e-8ab3-a5873abe4db6</chapterId>
-恭喜您完成本课程！
-
-我们很高兴看到您在学习之旅中达到这一重要里程碑。
-
-通过您的奉献和承诺，您获得了宝贵的知识和技能，这将有助于您的职业发展。
-
-为了继续深入探索比特币宇宙，我们邀请您探索 Plan ₿ Network 上提供的所有其他课程：
-
-#### 了解比特币及其基础知识
-https://planb.network/courses/btc101
-
-#### 探索奥地利经济学派
-https://planb.network/courses/eco201
-
-#### 获取并保护您的第一笔比特币
-https://planb.network/courses/btc102
-
-#### 更新您的在线安全
-https://planb.network/courses/scu101
-
-#### 探索自由through历史的演变
-https://planb.network/courses/phi201
-
-#### 了解挖矿基础知识
-https://planb.network/courses/min201
+<isCourseConclusion>true</isCourseConclusion>

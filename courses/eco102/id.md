@@ -1035,35 +1035,4 @@ Pada intinya, Reagan mengambil dari Bastiat beberapa elemen kunci dari visi libe
 ## Kesimpulan
 
 <chapterId>a3e98f2f-a072-4696-9553-5d24c6d236c9</chapterId>
-
-Selamat atas penyelesaian kursus ini!
-
-Kami senang Anda telah mencapai tonggak penting dalam perjalanan pembelajaran Anda.
-
-Melalui dedikasi dan komitmen Anda, Anda telah memperoleh pengetahuan dan keterampilan berharga yang akan membantu Anda dalam pengembangan profesional.
-
-Untuk terus menjelajahi dunia Bitcoin secara lebih mendalam, kami mengundang Anda untuk menemukan semua kursus lain yang tersedia di Plan ₿ Network:
-
-#### Temukan Bitcoin dan dasar-dasarnya dengan
-
-https://planb.network/courses/btc101
-
-#### Dapatkan dan amankan bitcoin pertama Anda dengan
-
-https://planb.network/courses/btc102
-
-#### Perbarui keamanan online Anda dengan
-
-https://planb.network/courses/scu101
-
-#### Temukan Lightning Network dengan
-
-https://planb.network/courses/lnp201
-
-#### Pelajari pemikiran ekonomi Sekolah Austria dengan
-
-https://planb.network/courses/eco201
-
-#### Pahami dasar-dasar Bitcoin dan bangun pemanas rumah Anda dengan
-
-https://planb.network/courses/min201
+<isCourseConclusion>true</isCourseConclusion>

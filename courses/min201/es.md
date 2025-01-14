@@ -807,30 +807,4 @@ El resultado final es una tasa de hashing más alta por vatio de electricidad, l
 ## Conclusión
 
 <chapterId>2941f29a-d6ce-4a3c-b61b-6e399f5395b1</chapterId>
-¡Felicitaciones por completar este curso!
-
-Nos complace que hayas alcanzado este importante hito en tu viaje de aprendizaje.
-
-A través de tu dedicación y compromiso, has adquirido valiosos conocimientos y habilidades que te servirán en tu desarrollo profesional.
-
-Para continuar explorando en profundidad el universo de Bitcoin, te invitamos a descubrir todos los otros cursos disponibles en Plan ₿ Network:
-
-#### Descubre Bitcoin y sus fundamentos con
-
-https://planb.network/courses/btc101
-
-#### Descubre la Lightning Network con
-
-https://planb.network/courses/lnp201
-
-#### Domina los principios de la privacidad en Bitcoin
-
-https://planb.network/courses/btc204
-
-#### Descubre la historia de los orígenes de Bitcoin con
-
-https://planb.network/courses/his201
-
-#### Comprende cómo funciona la cartera Bitcoin con
-
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>

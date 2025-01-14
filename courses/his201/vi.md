@@ -1376,28 +1376,4 @@ Vào năm 2011, Satoshi biến mất, nhưng Bitcoin vẫn tồn tại. Đồng 
 <isCourseExam>true</isCourseExam>
 ## Kết luận
 <chapterId>9c501c44-0f1a-449e-8ab3-a5873abe4db6</chapterId>
-Chúc mừng bạn đã hoàn thành khóa học này!
-
-Chúng tôi rất vui mừng khi bạn đã đạt được cột mốc quan trọng này trong hành trình học tập của mình.
-
-Nhờ sự tận tâm và cam kết của bạn, bạn đã thu được những kiến thức và kỹ năng quý giá sẽ phục vụ bạn trong sự phát triển nghề nghiệp.
-
-Để tiếp tục khám phá sâu hơn về vũ trụ Bitcoin, chúng tôi mời bạn khám phá tất cả các khóa học khác có sẵn trên Plan ₿ Network:
-
-#### Khám phá Bitcoin và các nguyên lý cơ bản của nó với
-https://planb.network/courses/btc101
-
-#### Khám phá Trường phái Kinh tế học Áo với
-https://planb.network/courses/eco201
-
-#### Nhận và bảo mật bitcoin đầu tiên của bạn với
-https://planb.network/courses/btc102
-
-#### Cập nhật bảo mật trực tuyến của bạn với
-https://planb.network/courses/scu101
-
-#### Khám phá sự tiến hóa của tự do qua các thời đại với
-https://planb.network/courses/phi201
-
-#### Hiểu các nguyên tắc cơ bản về khai thác với
-https://planb.network/courses/min201
+<isCourseConclusion>true</isCourseConclusion>

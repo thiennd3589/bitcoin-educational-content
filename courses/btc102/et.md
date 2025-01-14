@@ -1015,34 +1015,4 @@ Igal juhul on kõik meie kursused tasuta ja meie platvormil on saadaval palju re
 ## Kokkuvõte
 
 <chapterId>b082b8eb-dabc-5d79-94cf-eb8f48fc1968</chapterId>
-
-Õnnitleme kursuse lõpetamise puhul!
-
-Meil on hea meel, et olete oma õppeteekonnal edukalt selle verstaposti saavutanud. Tänu teie pühendumisele ja osalemisele olete omandanud väärtuslikke teadmisi ja oskusi, mis tulevad teile professionaalses arengus kasuks.
-
-Et sukelduda sügavamale Bitcoini maailma, kutsume teid tutvuma kõigi teiste Plan ₿ Networkis saadaolevate kursustega:
-
-#### Avasta Bitcoin ja selle põhitõed aadressil
-
-https://planb.network/courses/btc101
-
-#### Uuenda oma võrguturvalisust aadressil
-
-https://planb.network/courses/scu101
-
-#### Avasta Lightning Network aadressil
-
-https://planb.network/courses/lnp201
-
-#### Õpi tundma Austria majanduskoolkonna mõtteviisi aadressil
-
-https://planb.network/courses/eco201
-
-#### Mõista Bitcoini põhitõdesid ja ehita oma kodu küttesüsteem aadressil
-
-https://planb.network/courses/min201
-
-#### Mõista, kuidas Bitcoin'i rahakott töötab aadressil
-
-https://planb.network/courses/cyp201
-
+<isCourseConclusion>true</isCourseConclusion>

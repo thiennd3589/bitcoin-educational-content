@@ -1363,28 +1363,4 @@ _自由の倫理_ および _国家の解剖学_ において、マレー・ロ�
 <isCourseExam>true</isCourseExam>
 ## 結論
 <chapterId>594691db-1ecb-4914-bcb2-5a88f50ca0a5</chapterId>
-このコースを修了おめでとうございます！
-
-学習の道のりにおいて、この重要な節目に到達されたことを嬉しく思います。
-
-あなたの献身と努力のおかげで、専門的な成長に役立つ貴重な知識とスキルを習得されました。
-
-ビットコインの世界をさらに深く探求するために、Plan ₿ Networkで利用可能な他のすべてのコースをご覧ください：
-
-#### F. バスティアの人生について学ぶ
-https://planb.network/courses/eco102
-
-#### ビットコインとその基礎について学ぶ
-https://planb.network/courses/btc101
-
-#### ライトニングネットワークについて学ぶ
-https://planb.network/courses/lnp201
-
-#### ビットコインのプライバシーの原則を習得する
-https://planb.network/courses/btc204
-
-#### ビットコインの起源の歴史について学ぶ
-https://planb.network/courses/his201
-
-#### ビットコインウォレットの仕組みを理解する
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>

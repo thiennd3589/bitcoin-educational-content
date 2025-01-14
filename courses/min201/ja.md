@@ -784,30 +784,4 @@ Braiins OS+は、ASICのオーバークロック、アンダークロック、�
 ## まとめ
 
 <chapterId>2941f29a-d6ce-4a3c-b61b-6e399f5395b1</chapterId>
-このコースを修了おめでとうございます！
-
-学習の旅において、この重要なマイルストーンに到達されたことを大変嬉しく思います。
-
-あなたの献身と努力により、専門的な発展に役立つ貴重な知識とスキルを習得されました。
-
-ビットコインの世界をさらに深く探求するために、Plan ₿ Networkで利用可能な他のすべてのコースをご覧ください：
-
-#### ビットコインとその基礎を学ぶ
-
-https://planb.network/courses/btc101
-
-#### ライトニングネットワークを学ぶ
-
-https://planb.network/courses/lnp201
-
-#### ビットコインのプライバシーの原則を習得する
-
-https://planb.network/courses/btc204
-
-#### ビットコインの起源の歴史を学ぶ
-
-https://planb.network/courses/his201
-
-#### ビットコインウォレットの仕組みを理解する
-
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>

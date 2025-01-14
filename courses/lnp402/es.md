@@ -143,11 +143,4 @@ Buena suerte con tus estudios.
 
 ## Palabra de cierre
 <chapterId>d47b792e-d269-595b-9290-4788aba6e298</chapterId>
-
-¡Gracias por participar en este curso! Esperamos que te haya gustado.
-
-Si deseas seguir aprendiendo de este seminario, te animamos a participar en los cursos RGB disponibles en esta plataforma.
-
-También puedes consultar nuestros otros cursos y continuar estudiando a partir de nuestros numerosos recursos.
-
-Un gran agradecimiento a Fulgur Venture por ofrecer este curso y a nuestros profesores por su participación.
+<isCourseConclusion>true</isCourseConclusion>

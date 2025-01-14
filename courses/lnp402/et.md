@@ -166,11 +166,4 @@ Edu õpingutes.
 ## Lõppsõna
 
 <chapterId>d47b792e-d269-595b-9290-4788aba6e298</chapterId>
-
-Täname, et osalesite selles kursuses! Loodame, et see meeldis teile.
-
-Kui soovite sellest seminarist edasi õppida, julgustame teid osalema RGB kursustel, mis on saadaval sellel platvormil.
-
-Samuti võite tutvuda meie teiste kursustega ja jätkata õppimist meie arvukatest ressurssidest.
-Suur tänu Fulgur Venture'ile selle kursuse pakkumise eest ja meie õpetajatele nende osaluse eest.
-
+<isCourseConclusion>true</isCourseConclusion>

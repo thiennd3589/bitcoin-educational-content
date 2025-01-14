@@ -582,38 +582,4 @@ Ao ler essas obras e explorar esses recursos online, você pode desenvolver uma 
 ## Conclusão
 
 <chapterId>d668fdf6-fb4c-4bbf-82e1-afcb95c122e0</chapterId>
-Parabéns por concluir este curso!
-
-Estamos muito satisfeitos que tenha alcançado este importante marco em sua jornada de aprendizagem.
-
-Graças à sua dedicação e compromisso, você adquiriu conhecimentos e habilidades valiosas que servirão para seu desenvolvimento profissional.
-
-Para continuar explorando em profundidade o universo Bitcoin, convidamos você a descobrir todos os outros cursos disponíveis na Plan ₿ Network:
-
-#### Descubra a vida de F. Bastiat com
-
-https://planb.network/courses/eco102
-
-#### Compreenda o surgimento das hiperinflações com
-
-https://planb.network/courses/eco204
-
-#### Descubra o Bitcoin e seus fundamentos com
-
-https://planb.network/courses/btc101
-
-#### Atualize sua segurança online com
-
-https://planb.network/courses/scu101
-
-#### Descubra a Lightning Network com
-
-https://planb.network/courses/lnp201
-
-#### Aprenda a criar sua comunidade Bitcoin com
-
-https://planb.network/courses/btc302
-
-#### Compreenda como funciona a carteira Bitcoin com
-
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>

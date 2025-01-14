@@ -988,34 +988,4 @@ A hiperinflação é um assunto fascinante que foi estudado por meio de diversos
 ## Conclusão
 
 <chapterId>45d410b0-71ed-4502-8d8d-8b6df761db23</chapterId>
-Parabéns por concluir este curso!
-
-Estamos muito satisfeitos que tenha alcançado este importante marco em sua jornada de aprendizagem.
-
-Através de sua dedicação e compromisso, você adquiriu conhecimentos e habilidades valiosos que servirão para seu desenvolvimento profissional.
-
-Para continuar explorando em profundidade o universo Bitcoin, convidamos você a descobrir todos os outros cursos disponíveis na Plan ₿ Network:
-
-#### Descubra a vida de F. Bastiat com
-
-https://planb.network/courses/eco102
-
-#### Descubra o pensamento econômico da escola austríaca com
-
-https://planb.network/courses/eco201
-
-#### Descubra o Bitcoin e seus fundamentos com
-
-https://planb.network/courses/btc101
-
-#### Atualize sua segurança online com
-
-https://planb.network/courses/scu101
-
-#### Obtenha e proteja seus primeiros bitcoins com
-
-https://planb.network/courses/btc102
-
-#### Descubra a história das origens do Bitcoin com
-
-https://planb.network/courses/his201
+<isCourseConclusion>true</isCourseConclusion>

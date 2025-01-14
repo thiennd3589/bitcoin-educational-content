@@ -995,35 +995,4 @@ _(フランソワ・ケネ、重農主義の指導者)_
 ## 結論
 
 <chapterId>a3e98f2f-a072-4696-9553-5d24c6d236c9</chapterId>
-
-このコースを修了おめでとうございます！
-
-学習の旅でこの重要なマイルストーンに到達されたことを嬉しく思います。
-
-あなたの献身と努力により、専門的な発展に役立つ貴重な知識とスキルを習得されました。
-
-ビットコインの世界をさらに深く探求するため、Plan ₿ Networkで利用可能な他のすべてのコースをご覧ください：
-
-#### ビットコインとその基礎を学ぶ
-
-https://planb.network/courses/btc101
-
-#### 初めてのビットコインを取得し、セキュリティを確保する
-
-https://planb.network/courses/btc102
-
-#### オンラインセキュリティを更新する
-
-https://planb.network/courses/scu101
-
-#### ライトニングネットワークを探索する
-
-https://planb.network/courses/lnp201
-
-#### オーストリア学派の経済思想を学ぶ
-
-https://planb.network/courses/eco201
-
-#### ビットコインの基礎を理解し、家庭用ヒーターを構築する
-
-https://planb.network/courses/min201
+<isCourseConclusion>true</isCourseConclusion>

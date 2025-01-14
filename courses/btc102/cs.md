@@ -1018,33 +1018,4 @@ V každém případě jsou všechny naše kurzy zdarma a na naší platformě je
 ## Závěr
 
 <chapterId>b082b8eb-dabc-5d79-94cf-eb8f48fc1968</chapterId>
-Gratulujeme k dokončení tohoto kurzu!
-
-Jsme nadšeni, že jste úspěšně dosáhli tohoto milníku ve své vzdělávací cestě. Díky vaší oddanosti a zapojení jste získali cenné znalosti a dovednosti, které vám dobře poslouží ve vašem profesním rozvoji.
-
-Pro další prohlubování znalostí o Bitcoinu vás zveme k prozkoumání všech ostatních kurzů dostupných na Plan ₿ Network:
-
-#### Objevte Bitcoin a jeho základy na
-
-https://planb.network/courses/btc101
-
-#### Aktualizujte svou online bezpečnost na
-
-https://planb.network/courses/scu101
-
-#### Objevte Lightning Network na
-
-https://planb.network/courses/lnp201
-
-#### Seznamte se s rakouskou školou ekonomického myšlení na
-
-https://planb.network/courses/eco201
-
-#### Pochopte základy Bitcoinu a postavte si domácí vytápění na
-
-https://planb.network/courses/min201
-
-#### Pochopte, jak funguje Bitcoin peněženka na
-
-https://planb.network/courses/cyp201
-
+<isCourseConclusion>true</isCourseConclusion>

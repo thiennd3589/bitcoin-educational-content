@@ -1019,34 +1019,4 @@ In ogni caso, tutti i nostri corsi rimangono gratuiti e molte risorse o tutorial
 ## Conclusione
 
 <chapterId>b082b8eb-dabc-5d79-94cf-eb8f48fc1968</chapterId>
-
-Congratulazioni per aver completato questo corso!
-
-Siamo entusiasti che tu abbia raggiunto con successo questa tappa nel tuo percorso di apprendimento. Attraverso la tua dedizione e il tuo impegno, hai acquisito preziose conoscenze e competenze che ti saranno utili nel tuo sviluppo professionale.
-
-Per continuare ad approfondire il mondo di Bitcoin, ti invitiamo a esplorare tutti gli altri corsi disponibili con Plan ₿ Network:
-
-#### Scopri Bitcoin e i suoi fondamenti con
-
-https://planb.network/courses/btc101
-
-#### Aggiorna la tua sicurezza online con
-
-https://planb.network/courses/scu101
-
-#### Scopri il Lightning Network con
-
-https://planb.network/courses/lnp201
-
-#### Impara la Scuola Austriaca di Pensiero Economico con
-
-https://planb.network/courses/eco201
-
-#### Comprendi le basi di Bitcoin e costruisci il tuo riscaldamento domestico con
-
-https://planb.network/courses/min201
-
-#### Comprendi come funziona il portafoglio Bitcoin con
-
-https://planb.network/courses/cyp201
-
+<isCourseConclusion>true</isCourseConclusion>

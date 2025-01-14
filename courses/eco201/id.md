@@ -569,38 +569,4 @@ Dengan membaca karya-karya ini dan menjelajahi sumber daya online ini, Anda dapa
 ## Kesimpulan
 
 <chapterId>d668fdf6-fb4c-4bbf-82e1-afcb95c122e0</chapterId>
-Selamat atas penyelesaian kursus ini!
-
-Kami senang Anda telah mencapai tonggak penting ini dalam perjalanan pembelajaran Anda.
-
-Berkat dedikasi dan komitmen Anda, Anda telah memperoleh pengetahuan dan keterampilan berharga yang akan membantu Anda dalam pengembangan profesional.
-
-Untuk terus menjelajahi alam semesta Bitcoin secara mendalam, kami mengundang Anda untuk menemukan semua kursus lain yang tersedia di Plan ₿ Network:
-
-#### Temukan kehidupan F. Bastiat dengan
-
-https://planb.network/courses/eco102
-
-#### Pahami munculnya hiperinflasi dengan
-
-https://planb.network/courses/eco204
-
-#### Temukan Bitcoin dan dasar-dasarnya dengan
-
-https://planb.network/courses/btc101
-
-#### Perbarui keamanan online Anda dengan
-
-https://planb.network/courses/scu101
-
-#### Temukan Lightning Network dengan
-
-https://planb.network/courses/lnp201
-
-#### Pelajari cara membuat komunitas Bitcoin Anda dengan
-
-https://planb.network/courses/btc302
-
-#### Pahami cara kerja dompet Bitcoin dengan
-
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>

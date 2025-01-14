@@ -845,29 +845,4 @@ Le résultat final est un taux de hachage plus élevé par watt d’électricit�
 ## Conclusion
 
 <chapterId>2941f29a-d6ce-4a3c-b61b-6e399f5395b1</chapterId>
-
-Félicitations pour avoir terminé ce cours !
-
-Nous sommes ravis que vous ayez atteint cette étape importante dans votre parcours d'apprentissage. Grâce à votre dévouement et à votre engagement, vous avez acquis des connaissances et des compétences précieuses qui vous serviront dans votre développement professionnel.
-
-Pour continuer à explorer en profondeur l'univers du Bitcoin, nous vous invitons à découvrir tous les autres cours disponibles sur Plan ₿ Network :
-
-#### Découvrez Bitcoin et ses fondamentaux avec
-
-https://planb.network/courses/btc101
-
-#### Découvrez le Lightning Network avec
-
-https://planb.network/courses/lnp201
-
-#### Maîtriser les principes des la vie privée sur Bitcoin
-
-https://planb.network/courses/btc204
-
-#### Découvrez l'histoire des origines de Bitcoin avec
-
-https://planb.network/courses/his201
-
-#### Comprenez comment fonctionne le portefeuille Bitcoin avec
-
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>

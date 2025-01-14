@@ -1454,34 +1454,4 @@ Vše, co se děje ve světové společnosti, ve které žijeme, je výsledkem n�
 ## Závěr
 
 <chapterId>594691db-1ecb-4914-bcb2-5a88f50ca0a5</chapterId>
-Gratulujeme k dokončení tohoto kurzu!
-
-Jsme potěšeni, že jste dosáhli tohoto důležitého milníku ve své vzdělávací cestě.
-
-Díky vaší oddanosti a závazku jste získali cenné znalosti a dovednosti, které vám poslouží ve vašem profesním rozvoji.
-
-Pro další hloubkové zkoumání světa Bitcoinu vás zveme k objevování všech dalších kurzů dostupných na Plan ₿ Network:
-
-#### Objevte život F. Bastiata s
-
-https://planb.network/courses/eco102
-
-#### Objevte Bitcoin a jeho základy s
-
-https://planb.network/courses/btc101
-
-#### Objevte Lightning Network s
-
-https://planb.network/courses/lnp201
-
-#### Ovládněte principy soukromí na Bitcoinu
-
-https://planb.network/courses/btc204
-
-#### Objevte historii počátků Bitcoinu s
-
-https://planb.network/courses/his201
-
-#### Pochopte, jak funguje Bitcoin peněženka s
-
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>

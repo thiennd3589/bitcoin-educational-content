@@ -143,11 +143,4 @@ Boa sorte com seus estudos.
 
 ## Palavra final
 <chapterId>d47b792e-d269-595b-9290-4788aba6e298</chapterId>
-
-Obrigado por participar deste curso! Esperamos que você tenha gostado.
-
-Se você quiser continuar aprendendo com este seminário, incentivamos você a participar dos cursos RGB disponíveis nesta plataforma.
-
-Você também pode conferir nossos outros cursos e continuar estudando a partir de nossos numerosos recursos.
-
-Um grande agradecimento à Fulgur Venture por oferecer este curso e aos nossos professores por sua participação.
+<isCourseConclusion>true</isCourseConclusion>

@@ -2288,39 +2288,4 @@ Und damit haben wir das Ende dieses CYP201-Kurses erreicht. Wenn Sie diesen Kurs
 ## Fazit
 
 <chapterId>d291428b-3cfa-5394-930e-4b514be82d5a</chapterId>
-
-Wir sind am Ende der CYP201-Schulung angelangt. Ich hoffe, sie war hilfreich für Ihr Bitcoin-Lernen und hat Ihnen geholfen, die Funktionsweise der HD-Wallets, die Sie täglich nutzen, besser zu verstehen. Vielen Dank, dass Sie diesen Kurs bis zum Ende verfolgt haben!
-
-Meiner Meinung nach ist dieses Wissen über Wallets grundlegend, da es einen theoretischen Aspekt von Bitcoin mit seiner praktischen Anwendung verbindet. Wenn Sie Bitcoin verwenden, arbeiten Sie zwangsläufig mit Wallet-Software. Das Verständnis ihrer Funktionsweise ermöglicht es Ihnen, effektive Sicherheitsstrategien zu implementieren und gleichzeitig die zugrunde liegenden Mechanismen, Risiken und potenziellen Schwachstellen zu beherrschen. So können Sie Bitcoin sicherer und mit Vertrauen nutzen.
-
-Wenn Sie es noch nicht getan haben, lade ich Sie ein, diese Schulung zu bewerten und zu kommentieren. Das würde mir enorm helfen. Sie können diese Schulung auch in Ihren sozialen Netzwerken teilen, um dieses Wissen möglichst vielen Menschen zugänglich zu machen.
-
-Für Ihre weitere Reise durch den Kaninchenbau empfehle ich Ihnen die Schulung **BTC204**, die ich ebenfalls auf Plan ₿ Network erstellt habe. Sie widmet sich der Bitcoin-Privatsphäre und erkundet wichtige Themen: Was ist das Privatsphäre-Modell? Wie funktioniert die Kettenanalyse? Wie verwendet man Bitcoin optimal, um seine Privatsphäre zu maximieren? Ein logischer nächster Schritt zur Vertiefung Ihrer Fähigkeiten!
-
-https://planb.network/courses/btc204
-
-Um Ihr Wissen im Bitcoin-Universum weiter zu vertiefen, laden wir Sie ein, weitere Kurse auf Plan ₿ Network zu erkunden, wie zum Beispiel:
-
-#### Lernen Sie, Ihre Bitcoin-Community aufzubauen mit
-
-https://planb.network/courses/btc302
-
-#### Entdecken Sie das Lightning Network mit
-
-https://planb.network/courses/lnp201
-
-#### Entdecken Sie das ökonomische Denken der Österreichischen Schule mit
-
-https://planb.network/courses/eco201
-
-#### Entdecken Sie die Geschichte der Ursprünge von Bitcoin mit
-
-https://planb.network/courses/his201
-
-#### Entdecken Sie die Entwicklung der Freiheit im Laufe der Zeit mit
-
-https://planb.network/courses/phi201
-
-
-
-
+<isCourseConclusion>true</isCourseConclusion>

@@ -275,17 +275,4 @@ Die Gruppe Lightning Walker präsentiert ihre Lösung für den Remittenzdienst u
 
 ## Danksagungen
 <chapterId>33cb95cf-91d1-555b-a33b-0e3bd6745c33</chapterId>
-
-Wir möchten die Beiträge unserer Dozenten würdigen:
-
-- Peter Todd
-- Adam Gibson
-- Alekos Filini
-- Daniela Brozzoni
-- Ajelex
-- asi0
-- Gabriel Comte
-
-Ihre Expertise war von unschätzbarem Wert für den Erfolg dieses Kurses. Dies war der erste Kurs, der auf der 1. Ausgabe der Cubo+ Initiative basiert und im Juli 2023 durchgeführt wurde. Vielen Dank an alle Teilnehmer und Dozenten, dass Sie Teil dieser bahnbrechenden Bildungsreise waren. Es markiert den Beginn dessen, was wir hoffen, eine lange und fruchtbare Reise in die Welt der Bitcoin-Entwicklung sein wird. Als erste Kohorte haben Sie den Maßstab für zukünftige Klassen gesetzt.
-
-Fahren Sie fort, das Bitcoin-Ökosystem zu erkunden, zu lernen und beizutragen. Das hier gewonnene Wissen ist nur ein Ausgangspunkt. Graben Sie weiter in das Kaninchenloch und Sie werden eine sich ständig erweiternde Welt voller Möglichkeiten entdecken.
+<isCourseConclusion>true</isCourseConclusion>

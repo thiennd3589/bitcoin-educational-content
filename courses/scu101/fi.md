@@ -517,36 +517,4 @@ Osana "Security 101" -koulutusmoduulia Découvre Bitcoin Academyssa keskustelimm
 ## Yhteenveto
 
 <chapterId>6270ea6b-7694-4ecf-b026-42878bfc318f</chapterId>
-
-Onnittelut kurssin suorittamisesta!
-
-Olemme iloisia, että olet onnistuneesti saavuttanut tämän virstanpylvään oppimismatkallasi.
-
-Omistautumisesi ja sitoutumisesi ansiosta olet hankkinut arvokasta tietoa ja taitoja, jotka palvelevat sinua ammatillisessa kehityksessäsi.
-
-Syventääksesi tietämystäsi Bitcoin-maailmasta kutsumme sinut tutustumaan muihin Plan ₿ Networkissa saatavilla oleviin kursseihin, kuten:
-
-#### Tutustu Bitcoiniin ja sen perusteisiin
-
-https://planb.network/courses/btc101
-
-#### Hanki ja turvaa ensimmäiset bitcoinisi
-
-https://planb.network/courses/btc102
-
-#### Tutustu Lightning-verkkoon
-
-https://planb.network/courses/lnp201
-
-#### Tutustu Itävallan koulukunnan talousajatteluun
-
-https://planb.network/courses/eco201
-
-#### Tutustu Bitcoinin syntyhistoriaan
-
-https://planb.network/courses/his201
-
-#### Ymmärrä Bitcoin-lompakon toiminta
-
-https://planb.network/courses/cyp201
-
+<isCourseConclusion>true</isCourseConclusion>

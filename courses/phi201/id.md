@@ -1449,34 +1449,4 @@ Semua yang terjadi dalam masyarakat global tempat kita hidup adalah hasil dari i
 ## Kesimpulan
 
 <chapterId>594691db-1ecb-4914-bcb2-5a88f50ca0a5</chapterId>
-Selamat atas penyelesaian kursus ini!
-
-Kami senang Anda telah mencapai tonggak penting ini dalam perjalanan pembelajaran Anda.
-
-Berkat dedikasi dan komitmen Anda, Anda telah memperoleh pengetahuan dan keterampilan berharga yang akan membantu Anda dalam pengembangan profesional Anda.
-
-Untuk terus mendalami alam semesta Bitcoin, kami mengundang Anda untuk menemukan semua kursus lain yang tersedia di Plan ₿ Network:
-
-#### Temukan kehidupan F. Bastiat dengan
-
-https://planb.network/courses/eco102
-
-#### Temukan Bitcoin dan fundamental-nya dengan
-
-https://planb.network/courses/btc101
-
-#### Temukan Lightning Network dengan
-
-https://planb.network/courses/lnp201
-
-#### Kuasai prinsip-prinsip privasi di Bitcoin
-
-https://planb.network/courses/btc204
-
-#### Temukan sejarah asal-usul Bitcoin dengan
-
-https://planb.network/courses/his201
-
-#### Pahami cara kerja dompet Bitcoin dengan
-
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>

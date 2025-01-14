@@ -909,34 +909,4 @@ L'iperinflazione è un argomento affascinante che è stato studiato attraverso v
 ## Conclusione
 
 <chapterId>45d410b0-71ed-4502-8d8d-8b6df761db23</chapterId>
-Congratulazioni per aver completato questo corso!
-
-Siamo lieti che tu abbia raggiunto questo importante traguardo nel tuo percorso di apprendimento.
-
-Grazie alla tua dedizione e al tuo impegno, hai acquisito preziose conoscenze e competenze che ti serviranno nel tuo sviluppo professionale.
-
-Per continuare ad esplorare in profondità l'universo Bitcoin, ti invitiamo a scoprire tutti gli altri corsi disponibili su Plan ₿ Network:
-
-#### Scopri la vita di F. Bastiat con
-
-https://planb.network/courses/eco102
-
-#### Scopri il pensiero economico della scuola austriaca con
-
-https://planb.network/courses/eco201
-
-#### Scopri Bitcoin e i suoi fondamenti con
-
-https://planb.network/courses/btc101
-
-#### Aggiorna la tua sicurezza online con
-
-https://planb.network/courses/scu101
-
-#### Ottieni e proteggi i tuoi primi bitcoin con
-
-https://planb.network/courses/btc102
-
-#### Scopri la storia delle origini di Bitcoin con
-
-https://planb.network/courses/his201
+<isCourseConclusion>true</isCourseConclusion>

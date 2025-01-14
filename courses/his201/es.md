@@ -1344,28 +1344,4 @@ En 2011, Satoshi desapareció, pero Bitcoin sobrevivió. La criptomoneda incluso
 <isCourseExam>true</isCourseExam>
 ## Conclusión
 <chapterId>9c501c44-0f1a-449e-8ab3-a5873abe4db6</chapterId>
-¡Felicitaciones por completar este curso!
-
-Estamos encantados de que hayas alcanzado este importante hito en tu viaje de aprendizaje.
-
-Gracias a tu dedicación y compromiso, has adquirido valiosos conocimientos y habilidades que te servirán en tu desarrollo profesional.
-
-Para seguir explorando en profundidad el universo Bitcoin, te invitamos a descubrir todos los demás cursos disponibles en Plan ₿ Network:
-
-#### Descubre Bitcoin y sus fundamentos con
-https://planb.network/courses/btc101
-
-#### Descubre la Escuela Austríaca de Economía con
-https://planb.network/courses/eco201
-
-#### Obtén y asegura tus primeros bitcoins con
-https://planb.network/courses/btc102
-
-#### Actualiza tu seguridad en línea con
-https://planb.network/courses/scu101
-
-#### Descubre la evolución de la libertad a través de los tiempos con
-https://planb.network/courses/phi201
-
-#### Comprende los fundamentos de la minería con
-https://planb.network/courses/min201
+<isCourseConclusion>true</isCourseConclusion>

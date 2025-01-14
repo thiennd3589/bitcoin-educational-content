@@ -166,11 +166,4 @@ Lykke til med studiene.
 ## Avsluttende ord
 
 <chapterId>d47b792e-d269-595b-9290-4788aba6e298</chapterId>
-
-Takk for at du deltok på dette kurset! Vi håper du likte det.
-
-Hvis du ønsker å fortsette å lære fra dette seminaret, oppfordrer vi deg til å delta på RGB-kursene som er tilgjengelige på denne plattformen.
-
-Du kan også sjekke ut våre andre kurs og fortsette å studere fra våre mange ressurser.
-En stor takk til Fulgur Venture for å tilby dette kurset og til våre lærere for deres deltakelse.
-
+<isCourseConclusion>true</isCourseConclusion>

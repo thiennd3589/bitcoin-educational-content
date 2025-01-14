@@ -570,38 +570,4 @@ ZIRP的另一个意外后果是，它鼓励政府进行大规模支出。由于�
 ## 总结
 
 <chapterId>d668fdf6-fb4c-4bbf-82e1-afcb95c122e0</chapterId>
-恭喜您完成本课程！
-
-我们很高兴您在学习旅程中达到了这个重要的里程碑。
-
-通过您的奉献和投入，您获得了宝贵的知识和技能，这将有助于您的职业发展。
-
-为了继续深入探索比特币领域，我们邀请您探索 Plan ₿ Network 上提供的所有其他课程：
-
-#### 通过以下课程了解 F. 巴斯夏的一生
-
-https://planb.network/courses/eco102
-
-#### 通过以下课程了解恶性通货膨胀的产生
-
-https://planb.network/courses/eco204
-
-#### 通过以下课程了解比特币及其基础知识
-
-https://planb.network/courses/btc101
-
-#### 通过以下课程更新您的在线安全
-
-https://planb.network/courses/scu101
-
-#### 通过以下课程了解闪电网络
-
-https://planb.network/courses/lnp201
-
-#### 通过以下课程学习创建您的比特币社区
-
-https://planb.network/courses/btc302
-
-#### 通过以下课程了解比特币钱包的工作原理
-
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>

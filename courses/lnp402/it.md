@@ -143,11 +143,4 @@ Buona fortuna con i tuoi studi.
 
 ## Parola finale
 <chapterId>d47b792e-d269-595b-9290-4788aba6e298</chapterId>
-
-Grazie per aver partecipato a questo corso! Speriamo ti sia piaciuto.
-
-Se desideri continuare a imparare da questo seminario, ti incoraggiamo a partecipare ai corsi RGB disponibili su questa piattaforma.
-
-Puoi anche dare un'occhiata ai nostri altri corsi e continuare a studiare attraverso le nostre numerose risorse.
-
-Un grande ringraziamento a Fulgur Venture per aver offerto questo corso e ai nostri insegnanti per la loro partecipazione.
+<isCourseConclusion>true</isCourseConclusion>

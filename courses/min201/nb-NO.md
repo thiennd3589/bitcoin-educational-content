@@ -780,30 +780,4 @@ Resultatet er en høyere hash rate per watt elektrisitet, noe som betyr større 
 ## Konklusjon
 
 <chapterId>2941f29a-d6ce-4a3c-b61b-6e399f5395b1</chapterId>
-Gratulerer med fullført kurs!
-
-Vi er glade for at du har nådd denne viktige milepælen i din læringsprosess.
-
-Gjennom din dedikasjon og engasjement har du tilegnet deg verdifull kunnskap og ferdigheter som vil tjene deg i din profesjonelle utvikling.
-
-For å fortsette å utforske Bitcoin-universet i dybden, inviterer vi deg til å oppdage alle andre kurs som er tilgjengelige på Plan ₿ Network:
-
-#### Oppdag Bitcoin og dens grunnleggende prinsipper med
-
-https://planb.network/courses/btc101
-
-#### Oppdag Lightning Network med
-
-https://planb.network/courses/lnp201
-
-#### Behersk prinsippene for personvern på Bitcoin
-
-https://planb.network/courses/btc204
-
-#### Oppdag historien om Bitcoins opprinnelse med
-
-https://planb.network/courses/his201
-
-#### Forstå hvordan Bitcoin-lommeboken fungerer med
-
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>

@@ -1365,28 +1365,4 @@ Bitcoinの普及は、その価格が大幅に上昇することを意味しま�
 <isCourseExam>true</isCourseExam>
 ## 結論
 <chapterId>9c501c44-0f1a-449e-8ab3-a5873abe4db6</chapterId>
-このコースを修了おめでとうございます！
-
-学習の旅路でこの重要な節目に到達されたことを大変嬉しく思います。
-
-あなたの献身と努力のおかげで、専門的な成長に役立つ貴重な知識とスキルを習得されました。
-
-ビットコインの世界をさらに深く探求するため、Plan ₿ Networkで利用可能な他のすべてのコースをご覧ください：
-
-#### ビットコインとその基礎について学ぶ
-https://planb.network/courses/btc101
-
-#### オーストリア学派経済学について学ぶ
-https://planb.network/courses/eco201
-
-#### 最初のビットコインを取得し、セキュリティを確保する
-https://planb.network/courses/btc102
-
-#### オンラインセキュリティを更新する
-https://planb.network/courses/scu101
-
-#### 自由の進化の歴史について学ぶ
-https://planb.network/courses/phi201
-
-#### マイニングの基礎を理解する
-https://planb.network/courses/min201
+<isCourseConclusion>true</isCourseConclusion>

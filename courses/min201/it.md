@@ -812,30 +812,4 @@ Il risultato finale è una velocità di hashing più elevata per watt di elettri
 ## Conclusione
 
 <chapterId>2941f29a-d6ce-4a3c-b61b-6e399f5395b1</chapterId>
-Congratulazioni per aver completato questo corso!
-
-Siamo lieti che tu abbia raggiunto questa importante tappa nel tuo percorso di apprendimento.
-
-Grazie alla tua dedizione e al tuo impegno, hai acquisito preziose conoscenze e competenze che ti serviranno nel tuo sviluppo professionale.
-
-Per continuare ad esplorare in profondità l'universo Bitcoin, ti invitiamo a scoprire tutti gli altri corsi disponibili su Plan ₿ Network:
-
-#### Scopri Bitcoin e i suoi fondamenti con
-
-https://planb.network/courses/btc101
-
-#### Scopri il Lightning Network con
-
-https://planb.network/courses/lnp201
-
-#### Padroneggia i principi della privacy su Bitcoin
-
-https://planb.network/courses/btc204
-
-#### Scopri la storia delle origini di Bitcoin con
-
-https://planb.network/courses/his201
-
-#### Comprendi come funziona il portafoglio Bitcoin con
-
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>
