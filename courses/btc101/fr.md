@@ -678,7 +678,7 @@ Dans la même logique, évitez de dévoiler haut et fort votre système de sécu
 
 ![Conclusion chapitre 2](https://youtu.be/U28-oh950Dw)
 
-Les portefeuilles Bitcoin sont des logiciels permettant de stocker et transacter des nitcoins. Il en existe plusieurs types : portefeuilles sur mobile ou pc, pratique pour des petits montants et/ou des dépenses régulières ; les portefeuilles physiques, plutôt adapté à de la conservation de bitcoin sur le moyen et le long terme ; les portefeuilles multisig qui sont plus complexes à gérer et qui nécessitent plusieurs signatures pour effectuer des transactions.
+Les portefeuilles Bitcoin sont des logiciels permettant de stocker et transacter des bitcoins. Il en existe plusieurs types : portefeuilles sur mobile ou pc, pratique pour des petits montants et/ou des dépenses régulières ; les portefeuilles physiques, plutôt adapté à de la conservation de bitcoin sur le moyen et le long terme ; les portefeuilles multisig qui sont plus complexes à gérer et qui nécessitent plusieurs signatures pour effectuer des transactions.
 
 Lors de la création d'un portefeuille, vous devez en premier lieu faire une sauvegarde de votre clé privée. Cette sauvegarde prend la forme d'une liste de 12 ou 24 mots ou 12 mots que vous pouvez inscrire sur une feuille de papier ou une plaque de métal. Cette phrase mnémonique permet de restaurer votre portefeuille sur toute application de portefeuille Bitcoin. Toute personne ayant accès à cette liste possède également l'accès à vos bitcoins. Dans Bitcoin la souveraineté financière va de pair avec la responsabilité individuelle, il est donc crucial que vous sécuriser l'accès à votre portefeuilles et vos sauvegardes. Pour cela, il est important de suivre certaines règles:
 
