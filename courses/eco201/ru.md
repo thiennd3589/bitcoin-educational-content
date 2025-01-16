@@ -541,7 +541,7 @@ objectives:
 
 <partId>ae828713-d133-559f-93c2-101cb5245fca</partId>
 
-## Оцените курс
+## Отзывы & Оценки
 
 <chapterId>29d4323c-e34e-5834-bf03-2f3ed10d751b</chapterId>
 <isCourseReview>true</isCourseReview>
@@ -588,38 +588,4 @@ objectives:
 ## Заключение
 
 <chapterId>d668fdf6-fb4c-4bbf-82e1-afcb95c122e0</chapterId>
-Поздравляем с завершением курса!
-
-Мы рады, что вы достигли этого важного этапа в вашем обучении.
-
-Благодаря вашей преданности и целеустремленности вы приобрели ценные знания и навыки, которые послужат вам в профессиональном развитии.
-
-Чтобы продолжить углубленное изучение вселенной Биткоина, приглашаем вас ознакомиться со всеми остальными курсами, доступными на Plan ₿ Network:
-
-#### Узнайте о жизни Ф. Бастиа с помощью
-
-https://planb.network/courses/eco102
-
-#### Поймите возникновение гиперинфляций с помощью
-
-https://planb.network/courses/eco204
-
-#### Изучите Биткоин и его основы с помощью
-
-https://planb.network/courses/btc101
-
-#### Обновите вашу онлайн-безопасность с помощью
-
-https://planb.network/courses/scu101
-
-#### Откройте для себя Lightning Network с помощью
-
-https://planb.network/courses/lnp201
-
-#### Научитесь создавать своё биткоин-сообщество с помощью
-
-https://planb.network/courses/btc302
-
-#### Поймите, как работает биткоин-кошелёк с помощью
-
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>

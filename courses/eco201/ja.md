@@ -522,7 +522,7 @@ ZIRPのもう一つの予期せぬ結果は、政府が大規模な支出に従�
 
 <partId>ae828713-d133-559f-93c2-101cb5245fca</partId>
 
-## コースを評価してください
+## レビュー & 評価
 
 <chapterId>29d4323c-e34e-5834-bf03-2f3ed10d751b</chapterId>
 <isCourseReview>true</isCourseReview>
@@ -569,38 +569,4 @@ ECON 201コースの修了おめでとうございます！楽しんでいただ
 ## まとめ
 
 <chapterId>d668fdf6-fb4c-4bbf-82e1-afcb95c122e0</chapterId>
-このコースを修了おめでとうございます！
-
-学習の旅路においてこの重要な節目に到達されたことを嬉しく思います。
-
-あなたの献身と努力のおかげで、今後のキャリア開発に役立つ貴重な知識とスキルを習得されました。
-
-ビットコインの世界をさらに深く探求するため、Plan ₿ Networkで利用可能な他のすべてのコースをご覧ください：
-
-#### F. バスティアの生涯について学ぶ
-
-https://planb.network/courses/eco102
-
-#### ハイパーインフレーションの発生について理解する
-
-https://planb.network/courses/eco204
-
-#### ビットコインとその基礎について学ぶ
-
-https://planb.network/courses/btc101
-
-#### オンラインセキュリティを更新する
-
-https://planb.network/courses/scu101
-
-#### ライトニングネットワークについて学ぶ
-
-https://planb.network/courses/lnp201
-
-#### ビットコインコミュニティの作り方を学ぶ
-
-https://planb.network/courses/btc302
-
-#### ビットコインウォレットの仕組みを理解する
-
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>

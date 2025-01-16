@@ -552,7 +552,7 @@ La méthodologie est un aspect essentiel en économie et en sciences sociales en
 
 <partId>ae828713-d133-559f-93c2-101cb5245fca</partId>
 
-## Évaluez ce cours
+## Avis & Notes
 
 <chapterId>29d4323c-e34e-5834-bf03-2f3ed10d751b</chapterId>
 <isCourseReview>true</isCourseReview>
@@ -610,37 +610,4 @@ Si vous souhaitez approfondir le sujet de l'économie autrichienne, je vous sugg
 ## Conclusion
 
 <chapterId>d668fdf6-fb4c-4bbf-82e1-afcb95c122e0</chapterId>
-
-Félicitations pour avoir terminé ce cours !
-
-Nous sommes ravis que vous ayez atteint cette étape importante dans votre parcours d'apprentissage. Grâce à votre dévouement et à votre engagement, vous avez acquis des connaissances et des compétences précieuses qui vous serviront dans votre développement professionnel.
-
-Pour continuer à explorer en profondeur l'univers du Bitcoin, nous vous invitons à découvrir tous les autres cours disponibles sur Plan ₿ Network :
-
-#### Découvrez la vie de F. Bastiat avec
-
-https://planb.network/courses/eco102
-
-#### Comprenez l'émergence des hyperinflations avec
-
-https://planb.network/courses/eco204
-
-#### Découvrez Bitcoin et ses fondamentaux avec
-
-https://planb.network/courses/btc101
-
-#### Mettez à jour votre sécurité en ligne avec
-
-https://planb.network/courses/scu101
-
-#### Découvrez le Lightning Network avec
-
-https://planb.network/courses/lnp201
-
-#### Apprenez à créer votre communauté Bitcoin avec
-
-https://planb.network/courses/btc302
-
-#### Comprenez comment fonctionne le portefeuille Bitcoin avec
-
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>

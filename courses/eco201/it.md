@@ -534,7 +534,7 @@ La metodologia è un aspetto essenziale nell'economia e nelle scienze sociali in
 
 <partId>ae828713-d133-559f-93c2-101cb5245fca</partId>
 
-## Valuta il corso
+## Recensioni & Valutazioni
 
 <chapterId>29d4323c-e34e-5834-bf03-2f3ed10d751b</chapterId>
 <isCourseReview>true</isCourseReview>
@@ -581,38 +581,4 @@ Leggendo queste opere ed esplorando queste risorse online, puoi sviluppare una c
 ## Conclusione
 
 <chapterId>d668fdf6-fb4c-4bbf-82e1-afcb95c122e0</chapterId>
-Congratulazioni per aver completato questo corso!
-
-Siamo lieti che tu abbia raggiunto questa importante tappa nel tuo percorso di apprendimento.
-
-Grazie alla tua dedizione e al tuo impegno, hai acquisito preziose conoscenze e competenze che ti serviranno nel tuo sviluppo professionale.
-
-Per continuare ad esplorare in profondità l'universo Bitcoin, ti invitiamo a scoprire tutti gli altri corsi disponibili su Plan ₿ Network:
-
-#### Scopri la vita di F. Bastiat con
-
-https://planb.network/courses/eco102
-
-#### Comprendi l'emergere delle iperinflazioni con
-
-https://planb.network/courses/eco204
-
-#### Scopri Bitcoin e i suoi fondamenti con
-
-https://planb.network/courses/btc101
-
-#### Aggiorna la tua sicurezza online con
-
-https://planb.network/courses/scu101
-
-#### Scopri il Lightning Network con
-
-https://planb.network/courses/lnp201
-
-#### Impara a creare la tua comunità Bitcoin con
-
-https://planb.network/courses/btc302
-
-#### Comprendi come funziona il portafoglio Bitcoin con
-
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>

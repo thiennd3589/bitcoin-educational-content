@@ -534,7 +534,7 @@ La metodología es un aspecto esencial en economía y en ciencias sociales en ge
 
 <partId>ae828713-d133-559f-93c2-101cb5245fca</partId>
 
-## Danos tu opinión sobre este curso
+## Reseñas & Valoraciones
 
 <chapterId>29d4323c-e34e-5834-bf03-2f3ed10d751b</chapterId>
 <isCourseReview>true</isCourseReview>
@@ -581,38 +581,4 @@ Al leer estas obras y explorar estos recursos en línea, puedes desarrollar una 
 ## Conclusión
 
 <chapterId>d668fdf6-fb4c-4bbf-82e1-afcb95c122e0</chapterId>
-¡Felicitaciones por completar este curso!
-
-Nos complace que haya alcanzado este importante hito en su viaje de aprendizaje.
-
-Gracias a su dedicación y compromiso, ha adquirido valiosos conocimientos y habilidades que le servirán en su desarrollo profesional.
-
-Para continuar explorando en profundidad el universo Bitcoin, le invitamos a descubrir todos los demás cursos disponibles en Plan ₿ Network:
-
-#### Descubra la vida de F. Bastiat con
-
-https://planb.network/courses/eco102
-
-#### Comprenda el surgimiento de las hiperinflaciones con
-
-https://planb.network/courses/eco204
-
-#### Descubra Bitcoin y sus fundamentos con
-
-https://planb.network/courses/btc101
-
-#### Actualice su seguridad en línea con
-
-https://planb.network/courses/scu101
-
-#### Descubra la Lightning Network con
-
-https://planb.network/courses/lnp201
-
-#### Aprenda a crear su comunidad Bitcoin con
-
-https://planb.network/courses/btc302
-
-#### Comprenda cómo funciona la cartera Bitcoin con
-
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>

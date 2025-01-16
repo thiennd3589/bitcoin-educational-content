@@ -503,7 +503,7 @@ Passkiz是另一种可行且安全的密码管理替代方案。然而，一个�
 
 <partId>3d8ac4c9-f05b-4133-a40a-6e19d579f05f</partId>
 
-## 评价本课程
+## 评价 & 评分
 
 <chapterId>6be74d2d-2116-5386-9d92-c4c3e2103c68</chapterId>
 <isCourseReview>true</isCourseReview>
@@ -516,36 +516,4 @@ Passkiz是另一种可行且安全的密码管理替代方案。然而，一个�
 ## 总结
 
 <chapterId>6270ea6b-7694-4ecf-b026-42878bfc318f</chapterId>
-
-恭喜您完成本课程！
-
-我们很高兴看到您在学习之旅中成功达到这个里程碑。
-
-通过您的专注和投入，您获得了宝贵的知识和技能，这些将有助于您的职业发展。
-
-为了继续深入了解比特币世界，我们邀请您探索 Plan ₿ Network 上的其他课程，如：
-
-#### 通过以下课程探索比特币及其基础知识
-
-https://planb.network/courses/btc101
-
-#### 通过以下课程获取并保护您的第一笔比特币
-
-https://planb.network/courses/btc102
-
-#### 通过以下课程探索闪电网络
-
-https://planb.network/courses/lnp201
-
-#### 通过以下课程探索奥地利学派的经济思想
-
-https://planb.network/courses/eco201
-
-#### 通过以下课程探索比特币起源的历史
-
-https://planb.network/courses/his201
-
-#### 通过以下课程了解比特币钱包的工作原理
-
-https://planb.network/courses/cyp201
-
+<isCourseConclusion>true</isCourseConclusion>

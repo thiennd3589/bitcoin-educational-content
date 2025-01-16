@@ -518,7 +518,7 @@ Metodologia on olennainen osa taloustieteessä ja yhteiskuntatieteissä yleensä
 
 <partId>ae828713-d133-559f-93c2-101cb5245fca</partId>
 
-## Arvioi kurssi
+## Arviot & Arvosanat
 
 <chapterId>29d4323c-e34e-5834-bf03-2f3ed10d751b</chapterId>
 <isCourseReview>true</isCourseReview>
@@ -565,38 +565,4 @@ Näitä teoksia lukemalla ja näitä online-resursseja tutkimalla voit kehittä�
 ## Yhteenveto
 
 <chapterId>d668fdf6-fb4c-4bbf-82e1-afcb95c122e0</chapterId>
-Onnittelut kurssin suorittamisesta!
-
-Olemme iloisia, että olet saavuttanut tämän tärkeän virstanpylvään oppimismatkallasi.
-
-Omistautumisesi ja sitoutumisesi ansiosta olet hankkinut arvokasta tietoa ja taitoja, jotka palvelevat sinua ammatillisessa kehityksessäsi.
-
-Jatkaaksesi Bitcoin-maailman syvällistä tutkimista, kutsumme sinut tutustumaan kaikkiin muihin Plan ₿ Networkissa saatavilla oleviin kursseihin:
-
-#### Tutustu F. Bastiatin elämään kurssilla
-
-https://planb.network/courses/eco102
-
-#### Ymmärrä hyperinflaatioiden synty kurssilla
-
-https://planb.network/courses/eco204
-
-#### Tutustu Bitcoiniin ja sen perusteisiin kurssilla
-
-https://planb.network/courses/btc101
-
-#### Päivitä verkkoturvallisuutesi kurssilla
-
-https://planb.network/courses/scu101
-
-#### Tutustu Lightning Networkiin kurssilla
-
-https://planb.network/courses/lnp201
-
-#### Opi luomaan oma Bitcoin-yhteisösi kurssilla
-
-https://planb.network/courses/btc302
-
-#### Ymmärrä Bitcoin-lompakon toiminta kurssilla
-
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>

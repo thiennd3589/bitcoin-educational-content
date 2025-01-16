@@ -527,7 +527,7 @@ Phương pháp luận là một khía cạnh thiết yếu trong kinh tế học
 
 <partId>ae828713-d133-559f-93c2-101cb5245fca</partId>
 
-## Đánh giá khóa học
+## Nhận xét & Đánh giá
 
 <chapterId>29d4323c-e34e-5834-bf03-2f3ed10d751b</chapterId>
 <isCourseReview>true</isCourseReview>
@@ -574,38 +574,4 @@ Bằng cách đọc những tác phẩm này và khám phá những nguồn tr�
 ## Kết luận
 
 <chapterId>d668fdf6-fb4c-4bbf-82e1-afcb95c122e0</chapterId>
-Chúc mừng bạn đã hoàn thành khóa học này!
-
-Chúng tôi rất vui mừng khi bạn đã đạt được cột mốc quan trọng này trong hành trình học tập của mình.
-
-Nhờ vào sự tận tâm và cam kết của bạn, bạn đã thu được những kiến thức và kỹ năng quý giá sẽ phục vụ cho sự phát triển nghề nghiệp của mình.
-
-Để tiếp tục khám phá sâu rộng vũ trụ Bitcoin, chúng tôi mời bạn khám phá tất cả các khóa học khác có sẵn trên Plan ₿ Network:
-
-#### Khám phá cuộc đời của F. Bastiat với
-
-https://planb.network/courses/eco102
-
-#### Hiểu về sự xuất hiện của siêu lạm phát với
-
-https://planb.network/courses/eco204
-
-#### Khám phá Bitcoin và các nguyên tắc cơ bản của nó với
-
-https://planb.network/courses/btc101
-
-#### Cập nhật bảo mật trực tuyến của bạn với
-
-https://planb.network/courses/scu101
-
-#### Khám phá Lightning Network với
-
-https://planb.network/courses/lnp201
-
-#### Học cách tạo cộng đồng Bitcoin của bạn với
-
-https://planb.network/courses/btc302
-
-#### Hiểu cách hoạt động của ví Bitcoin với
-
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>

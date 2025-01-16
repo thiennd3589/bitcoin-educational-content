@@ -770,7 +770,7 @@ Braiins OS+支持ASIC的超频、降频和自动调频。它允许用户灵活�
 
 <partId>fa42ec0b-b1fd-47f6-8268-6eab684c1d2b</partId>
 
-## 评价本课程
+## 评价 & 评分
 
 <chapterId>6af13742-df68-5cf4-b7aa-93dc0c2eaae9</chapterId>
 <isCourseReview>true</isCourseReview>
@@ -783,30 +783,4 @@ Braiins OS+支持ASIC的超频、降频和自动调频。它允许用户灵活�
 ## 总结
 
 <chapterId>2941f29a-d6ce-4a3c-b61b-6e399f5395b1</chapterId>
-恭喜您完成本课程！
-
-我们很高兴看到您在学习旅程中达到这个重要的里程碑。
-
-通过您的奉献和投入，您获得了宝贵的知识和技能，这将有助于您的职业发展。
-
-为了继续深入探索比特币的世界，我们诚邀您发现 Plan ₿ Network 上的所有其他课程：
-
-#### 通过以下课程了解比特币及其基础知识
-
-https://planb.network/courses/btc101
-
-#### 通过以下课程了解闪电网络
-
-https://planb.network/courses/lnp201
-
-#### 掌握比特币上的隐私原则
-
-https://planb.network/courses/btc204
-
-#### 通过以下课程了解比特币起源的历史
-
-https://planb.network/courses/his201
-
-#### 通过以下课程了解比特币钱包的工作原理
-
-https://planb.network/courses/cyp201
+<isCourseConclusion>true</isCourseConclusion>

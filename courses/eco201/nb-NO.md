@@ -514,7 +514,7 @@ Metodologi er et essensielt aspekt i økonomi og i samfunnsvitenskapene generelt
 
 <partId>ae828713-d133-559f-93c2-101cb5245fca</partId>
 
-## Evaluer kurset
+## Vurderinger & Karakterer
 
 <chapterId>29d4323c-e34e-5834-bf03-2f3ed10d751b</chapterId>
 <isCourseReview>true</isCourseReview>
@@ -561,39 +561,4 @@ Ved å lese disse verkene og utforske disse online ressursene, kan du utvikle en
 ## Konklusjon
 
 <chapterId>d668fdf6-fb4c-4bbf-82e1-afcb95c122e0</chapterId>
-Gratulerer med fullført kurs!
-
-Vi er glade for at du har nådd denne viktige milepælen i din læringsprosess.
-
-Takket være din dedikasjon og engasjement har du tilegnet deg verdifull kunnskap og ferdigheter som vil tjene deg i din profesjonelle utvikling.
-
-For å fortsette å utforske Bitcoin-universet i dybden, inviterer vi deg til å oppdage alle andre kurs tilgjengelig på Plan ₿ Network:
-
-#### Oppdag F. Bastiats liv med
-
-https://planb.network/courses/eco102
-
-#### Forstå fremveksten av hyperinflasjon med
-
-https://planb.network/courses/eco204
-
-#### Oppdag Bitcoin og dens grunnleggende prinsipper med
-
-https://planb.network/courses/btc101
-
-#### Oppdater din nettsikkerhet med
-
-https://planb.network/courses/scu101
-
-#### Oppdag Lightning Network med
-
-https://planb.network/courses/lnp201
-
-#### Lær å skape ditt Bitcoin-fellesskap med
-
-https://planb.network/courses/btc302
-
-#### Forstå hvordan Bitcoin-lommeboken fungerer med
-
-https://planb.network/courses/cyp201
-
+<isCourseConclusion>true</isCourseConclusion>
