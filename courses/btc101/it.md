@@ -329,7 +329,7 @@ La risoluzione di una crisi di iperinflazione richiede spesso cambiamenti radica
 
 In conclusione, l'iperinflazione ha l'effetto di degradare rapidamente il valore della moneta, portando all'erosione dei risparmi e alla perdita di fiducia nel sistema monetario. Come suggerito da Voltaire, una moneta fiduciaria alla fine perderà sempre il suo valore intrinseco e si avvicinerà allo zero.
 
-Una valuta che si basa su un terzo di fiducia come un istituto finanziario si rivela essere una valuta difettosa nel tempo, in quanto incapace di garantire il potere d'acquisto o preservare i risparmi.
+Una valuta che si basa sulla fiducia di un terzo, come un istituto finanziario, si rivela essere una valuta difettosa nel tempo, in quanto incapace di garantire il potere d'acquisto o preservare i risparmi.
 
 Per approfondire il tema delle iperinflazioni, vi consiglio il corso ECO 204 di David St-Onge. Imparerete cosa sono i cicli iperinflazionistici e quali sono i loro impatti reali sulle nostre vite. Scoprirete anche le somiglianze tra questi cicli e, soprattutto, come proteggervi da essi:
 
