@@ -1,5 +1,6 @@
 question: Qu'est-ce que rgb-lightning-node dans l'écosystème RGB ?
 answer: Un daemon qui permet de gérer des canaux Lightning compatibles RGB
+wrong_answers:
   - Un wallet mobile pour gérer des actifs RGB
   - Un serveur proxy pour échanger des consignments RGB
   - Un outil de minage pour les actifs RGB sur Bitcoin
