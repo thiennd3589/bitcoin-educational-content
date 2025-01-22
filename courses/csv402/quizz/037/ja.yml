@@ -1,4 +1,4 @@
-question: "NonInflatableAsset.rgb "スキーマをローカルの隠し場所にインポートするには？
+question: NonInflatableAsset.rgb スキーマをローカルの隠し場所にインポートするには？
 answer: rgbインポート schemata/NonInflatableAssets.rgb
 wrong_answers:
   - rgb インポート schema/NonInflatableAssets.rgb
