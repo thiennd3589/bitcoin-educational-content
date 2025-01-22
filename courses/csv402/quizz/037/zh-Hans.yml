@@ -1,4 +1,4 @@
-question: 如何将 "NonInflatableAsset.rgb "模式导入本地存储库？
+question: 如何将 NonInflatableAsset.rgb 模式导入本地存储库？
 answer: rgb 导入 schemata/NonInflatableAssets.rgb
 wrong_answers:
   - rgb 导入 schema/NonInflatableAssets.rgb
