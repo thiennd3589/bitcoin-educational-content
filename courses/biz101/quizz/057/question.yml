@@ -1,8 +1,8 @@
-id: 18f8a2b9-65c4-48a9-9105-82a276a9b43a
-chapterId: 1306196c-1e8a-454b-8e11-6887ecb3d8b4
+id: 65fc881e-b4a8-48ae-9e74-f0a4e6218211
+chapterId: 7edda53d-5b9f-432a-8493-115de8c94a67
 difficulty: easy
 duration: 30
-author: network-pill
+author: pretty-private
 tags:
   - guides
   - finance
@@ -11,8 +11,8 @@ tags:
 original_language: en
 proofreading:
   - language: en
-    last_contribution_date: 2024-12-18
+    last_contribution_date: 2025-01-22
     urgency: 1
     contributors_id:
-      - NetworkEffect
+      - LoicPandul
     reward:
