@@ -1,16 +1,17 @@
 topic: protocol
 subtopic: sidechain
 level: advanced
-hours: 10
+hours: 8
 
 professors:
-  - guitar-ostrich
+  - abstract-alpha
 
 # Proofreading metadata
 original_language: en
+
 proofreading:
   - language: en
     last_contribution_date:
     urgency: 1
     contributors_id:
-    reward: 
+    reward: 0
