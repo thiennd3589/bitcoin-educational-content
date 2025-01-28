@@ -4,7 +4,8 @@ description: Steps to configure the USDT plugin
 ---
 ![cover](assets/cover.webp)
 
-Dans cette vidéo, vous allez découvrir la configuration du plugin USDT sur BTCPay Server pour vos boutiques en ligne. Vous apprendrez comment installer le plugin via le gestionnaire de plugins, configurer les paramètres du serveur pour une meilleure disponibilité en utilisant des nœuds dédiés, et configurer vos portefeuilles pour recevoir les paiements en toute sécurité.
+In this video, you will discover how to set up the USDT plugin on BTCPay Server for your online stores. You will learn how to install the plugin through the plugin manager, configure server settings for better availability using dedicated nodes, and set up your wallets to securely receive payments.
 
-![BTCPay-Tether](https://youtu.be/hAymYr6YDMY))
+
+![BTCPay-Tether](https://youtu.be/hAymYr6YDMY)
 
