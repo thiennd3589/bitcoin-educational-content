@@ -160,7 +160,9 @@ Kryptovaluuttahuijausten ja taloudellisten huijausten lisäksi bitcoineja menett
 - Pidä tietokoneesi ajan tasalla ja vapaana haittaohjelmista,
 - Arvosta yksityisyyttäsi käyttämällä omistautuneita työkaluja (Signal, Tor, ProtonMail).
 
-Jos tämä aihe on sinulle täysin tuntematon, SECU 101 -koulutus voi olla mielenkiintoinen tapa perehtyä siihen yksityiskohtaisesti.
+Jos tämä aihe on sinulle täysin tuntematon, SCU 101 -koulutus voi olla mielenkiintoinen tapa perehtyä siihen yksityiskohtaisesti.
+
+https://planb.network/courses/scu101
 
 On ratkaisevan tärkeää pitää tietokoneesi optimaalisessa työskentelykunnossa, olitpa kiinnostunut Bitcoinista tai et. Päivitys ei ole vain uusien ominaisuuksien lisäämistä varten: se myös korjaa bugeja ja parantaa ohjelmistosi turvallisuutta. Joten varmista, että:
 

@@ -160,7 +160,9 @@ Lisaks krüptoraha pettustele ja finantspettustele on bitcoine kaotamise peamine
 - Hoidke oma arvuti ajakohane ja vaba pahavarast,
 - Hinnake oma privaatsust, kasutades spetsiaalseid tööriistu (Signal, Tor, ProtonMail).
 
-Kui see teema on teile täiesti tundmatu, võib SECU 101 koolitus olla huvitav, et sellesse detailsemalt süveneda.
+Kui see teema on teile täiesti tundmatu, võib SCU 101 koolitus olla huvitav, et sellesse detailsemalt süveneda.
+
+https://planb.network/courses/scu101
 
 On oluline hoida oma arvuti optimaalses töökorras, olenemata sellest, kas olete huvitatud Bitcoinist või mitte. Uuendus ei ole ainult uute funktsioonide lisamiseks: see parandab ka vigu ja tõstab teie tarkvara turvalisust. Seega veenduge, et:
 

@@ -41,7 +41,7 @@ In this course, we will focus on 4 angles:
 - Fundamentally review why Bitcoin is important and understand its industry. This will strengthen our convictions and help us understand what we are getting into.
 - Set up your first Bitcoin wallet and make your first Bitcoin purchase through an exchange platform. Here, we will look for the most suitable solution for your needs. Finally, the last section will address a fundamental concept for your security, but one that is too often overlooked in the industry: how to create a Bitcoin inheritance plan.
 
-As you can see, the purpose of this training is to accompany you so that you adhere to the best practices of our industry from the beginning, in a simple and fast way!
+As you can see, the purpose of this course is to accompany you so that you adhere to the best practices of our industry from the beginning, in a simple and fast way!
 
 Good luck :)
 
@@ -163,7 +163,9 @@ In addition to cryptocurrency scams and financial scams, the main reason for los
 - Keep your computer up to date and free of malware,
 - Value your privacy by using dedicated tools (Signal, Tor, ProtonMail).
 
-If this topic is completely unknown to you, the SECU 101 training can be interesting to delve into it in detail.
+If this topic is completely unknown to you, the SCU 101 course  can be interesting to delve into it in detail.
+
+https://planb.network/en/courses/scu101
 
 It is crucial to keep your computer in optimal working condition, whether you are interested in Bitcoin or not. An update is not only there to add new features: it also fixes bugs and improves the security of your software. So make sure to:
 
@@ -195,7 +197,7 @@ Online anonymity is essential for a free and prosperous society. It enables free
 - Bitlocker to encrypt your data,
 - Samurai Wallet for money transfers.
 
-Once again, if you are interested in this topic, the SECU 101 training is available to guide you.
+Once again, if you are interested in this topic, the SECU 101 course is available to guide you.
 
 ## Tips for Beginners
 
@@ -572,7 +574,7 @@ Andreas Antonopoulos, if I'm not mistaken, introduced me to this idea. @aantonop
 
 Now that we have reviewed the fundamental basics and learned how to avoid scams and financial losses, we can develop our plan. The plan will be fairly simple to start with, but it is important to get started. You can always modify it as time goes on.
 
-In this training, we will assume that you are a beginner in Bitcoin, and therefore the solution must be simple, quick to implement, and effective. We will not discuss exposure to Bitcoin through mining, Bitcoin companies on the stock market, or other complex matters. The goal is to choose the right wallet for you, and then the right solution to obtain your first bitcoins.
+In this course, we will assume that you are a beginner in Bitcoin, and therefore the solution must be simple, quick to implement, and effective. We will not discuss exposure to Bitcoin through mining, Bitcoin companies on the stock market, or other complex matters. The goal is to choose the right wallet for you, and then the right solution to obtain your first bitcoins.
 
 Let's start by asking ourselves the following questions:
 
@@ -1013,7 +1015,7 @@ I am truly proud that you have reached this stage. I sincerely mean it. What to 
 
 1. You could simply continue as you have done so far. Keep accumulating bitcoins slowly and let your strategy unfold over time. You already have a sufficient level of security, everything is in place, and you have done what was necessary for yourself and your family. You don't need to become a trading expert, and you don't need to know much more about investing. You probably have a job on the side, and even though Bitcoin is exciting, your main goal was to reach this stage. This is the case for the majority of you, and I respect that. I am very happy that you have made it this far down the Bitcoin "rabbit hole," and I hope the journey has been enjoyable. Thank you for trusting me to help secure your first bitcoins.
 
-2. You may want to continue educating yourself on the technical, ideological, and philosophical aspects of Bitcoin. If you feel like your journey is just beginning, I encourage you to continue learning about Bitcoin. There is so much to learn that it is sometimes difficult to know where to start. Here is a list of courses and training that could accompany you:
+2. You may want to continue educating yourself on the technical, ideological, and philosophical aspects of Bitcoin. If you feel like your journey is just beginning, I encourage you to continue learning about Bitcoin. There is so much to learn that it is sometimes difficult to know where to start. Here is a list of courses and couse that could accompany you:
 
 - Bitcoin node and Lightning Network: The Lightning Network, as we have already seen several times, brings a whole new vision of what Bitcoin is. Through this second layer, the possibilities are numerous, and an entire industry is being built on top of it. To accompany you in the discovery, I invite you to take LN 201 for a theoretical course or LN 202 for a practical course. Both courses are accessible to everyone at this stage of your learning and can help you better understand this new aspect of Bitcoin.
 

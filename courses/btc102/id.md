@@ -159,7 +159,9 @@ Selain penipuan kriptokurensi dan penipuan finansial, alasan utama kehilangan bi
 - Jaga komputer Anda tetap terbaru dan bebas dari malware,
 - Hargai privasi Anda dengan menggunakan alat khusus (Signal, Tor, ProtonMail).
 
-Jika topik ini sepenuhnya baru bagi Anda, pelatihan SECU 101 bisa menjadi menarik untuk mendalami secara detail.
+Jika topik ini sepenuhnya baru bagi Anda, pelatihan SCU 101 bisa menjadi menarik untuk mendalami secara detail.
+
+https://planb.network/courses/scu101
 
 Sangat penting untuk menjaga komputer Anda dalam kondisi kerja optimal, apakah Anda tertarik dengan Bitcoin atau tidak. Pembaruan tidak hanya ada untuk menambahkan fitur baru: itu juga memperbaiki bug dan meningkatkan keamanan perangkat lunak Anda. Jadi, pastikan untuk:
 

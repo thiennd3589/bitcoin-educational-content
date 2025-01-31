@@ -161,7 +161,9 @@ Oltre alle truffe legate alle criptovalute e alla finanza, la prima ragione per 
 - Mantenere il proprio computer aggiornato e privo di malware,
 - Valorizzare la propria privacy utilizzando strumenti dedicati (Signal, Tor, ProtonMail).
 
-Se questo argomento vi è completamente sconosciuto, il corso SECU 101 potrebbe essere interessante per approfondirlo in dettaglio.
+Se questo argomento vi è completamente sconosciuto, il corso SCU 101 potrebbe essere interessante per approfondirlo in dettaglio.
+
+https://planb.network/courses/scu101
 
 È fondamentale mantenere il proprio computer in uno stato di funzionamento ottimale, che siate interessati a Bitcoin o meno. Un aggiornamento non serve solo ad aggiungere nuove funzionalità: corregge anche bug e migliora la sicurezza del vostro software. Assicuratevi quindi di:
 

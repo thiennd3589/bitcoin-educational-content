@@ -163,7 +163,9 @@ Além das fraudes em criptomoedas e finanças, a principal razão para perder bi
 - Mantenha seu computador atualizado e livre de malwares,
 - Valorize sua privacidade usando ferramentas dedicadas (Signal, Tor, ProtonMail).
 
-Se você não conhece muito sobre esse assunto, o curso SECU 101 pode ser interessante para aprofundar em detalhes.
+Se você não conhece muito sobre esse assunto, o curso SCU 101 pode ser interessante para aprofundar em detalhes.
+
+https://planb.network/courses/scu101
 
 É crucial manter seu computador em um estado de funcionamento ideal, esteja você interessado em Bitcoin ou não. Uma atualização não serve apenas para adicionar novos recursos: ela também corrige bugs e melhora a segurança de seus softwares. Portanto, certifique-se de:
 

@@ -160,7 +160,9 @@ Kromě podvodů s kryptoměnami a finančních podvodů je hlavním důvodem ztr
 - Udržujte svůj počítač aktuální a bez malware,
 - Oceňujte své soukromí používáním speciálních nástrojů (Signal, Tor, ProtonMail).
 
-Pokud je pro vás toto téma zcela neznámé, školení SECU 101 může být zajímavé pro podrobné prozkoumání.
+Pokud je pro vás toto téma zcela neznámé, školení SCU 101 může být zajímavé pro podrobné prozkoumání.
+
+https://planb.network/courses/scu101
 
 Je zásadní udržovat váš počítač ve vynikajícím pracovním stavu, ať už vás Bitcoin zajímá, nebo ne. Aktualizace není jen pro přidání nových funkcí: také opravuje chyby a zlepšuje bezpečnost vašeho softwaru. Takže se ujistěte, že:
 

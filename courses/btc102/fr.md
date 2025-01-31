@@ -173,7 +173,9 @@ Outre les arnaques en crypto-monnaie et autour de la finance, la première raiso
 - Maintenir votre ordinateur à jour et exempt de malwares,
 - Valoriser votre vie privée en utilisant des outils dédiés (Signal, Tor, ProtonMail).
 
-Si ce sujet vous est complètement inconnu, la formation SECU 101 peut être intéressante pour l'approfondir en détail.
+Si ce sujet vous est complètement inconnu, la formation SCU 101 peut être intéressante pour l'approfondir en détail.
+
+https://planb.network/courses/scu101
 
 Il est crucial de maintenir votre ordinateur dans un état de fonctionnement optimal, que vous vous intéressiez à Bitcoin ou non. Une mise à jour n'est pas seulement là pour ajouter de nouvelles fonctionnalités : elle corrige également les bugs et améliore la sécurité de vos logiciels. Assurez-vous donc de :
 

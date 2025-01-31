@@ -159,7 +159,9 @@ I tillegg til svindel med kryptovaluta og finansiell svindel, er hovedårsaken t
 - Hold datamaskinen din oppdatert og fri for skadelig programvare,
 - Verdi ditt privatliv ved å bruke dedikerte verktøy (Signal, Tor, ProtonMail).
 
-Hvis dette emnet er helt ukjent for deg, kan SECU 101-treningen være interessant å fordype seg i detaljene.
+Hvis dette emnet er helt ukjent for deg, kan SCU 101-treningen være interessant å fordype seg i detaljene.
+
+https://planb.network/courses/scu101
 
 Det er avgjørende å holde datamaskinen din i optimal arbeidstilstand, enten du er interessert i Bitcoin eller ikke. En oppdatering er ikke bare der for å legge til nye funksjoner: den fikser også feil og forbedrer sikkerheten til programvaren din. Så sørg for å:
 
