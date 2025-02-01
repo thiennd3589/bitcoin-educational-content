@@ -3958,7 +3958,6 @@ LN-RGB ühilduvuse poolt avanevad võimalused on märkimisväärsed: stabiilsed 
 
 <partId>b0baebfc-d146-5938-849a-f835fafb386f</partId>
 
-<isCourseConclusion>true</isCourseConclusion>
 
 ## Arvamused ja hinnangud
 
@@ -3966,7 +3965,7 @@ LN-RGB ühilduvuse poolt avanevad võimalused on märkimisväärsed: stabiilsed 
 
 <isCourseReview>true</isCourseReview>
 
-## Lõppmärkused
+## Kokkuvõte
 
 <chapterId>0309536d-c336-56a0-869e-a8395ed8d9ae</chapterId>
 

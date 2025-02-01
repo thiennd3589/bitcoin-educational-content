@@ -820,10 +820,6 @@ https://planb.network/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f
 
 In the mindset of the Paranoid individual, caution, security, and anonymity are paramount. These priorities dictate a deliberate and well-thought-out approach to using Bitcoin, promoting self-sufficiency and caution. The Paranoid individual is willing to invest time and effort to ensure the security and privacy of their bitcoins while skillfully navigating the ecosystem to avoid unnecessary exposure. While it may seem overly cautious to some, the Paranoid individual considers their diligence and attention to detail essential for successful and secure participation in the world of Bitcoin.
 
-# The future with Bitcoin
-
-<partId>98199b14-ad0f-5da7-ae99-8e5f5819f153</partId>
-
 ## Creating an inheritance plan
 
 <chapterId>233c88d3-2e8e-5eba-ac06-efe67a209038</chapterId>
@@ -1000,10 +996,6 @@ Congratulations! You have a first version of your inheritance plan, and it's a g
 
 _Cryptoasset Inheritance Planning, A simple guide for owners, Pamela Morgan, ESQ. Copyright 2018 by Merkle Bloom LLC, All rights reserved. CC-BY_ A big thank you to Pamela Morgan for her valuable work and for allowing me to share it. Thanks also to everyone who contributed to its writing.
 You are the best :D My team and my students also thank you!
-
-# Acknowledgments and keep digging the rabbit hole
-
-<partId>2a6ec097-a3e7-5f1d-a1ec-ae2b0b199e40</partId>
 
 ## Congratulations! YOU ARE IN THE TOP 0.1%
 

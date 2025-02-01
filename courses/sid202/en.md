@@ -1239,7 +1239,7 @@ The next step is to challenge yourself with a cumulative quiz that covers all pr
 
 <partId>d5dbd616-e291-42bc-aae3-6c44599dbd06</partId>
 
-## Review
+## Reviews & Ratings
 
 <chapterId>beae23bd-2fd1-49fe-8f38-ed169acde51d</chapterId>
 <isCourseReview>true</isCourseReview>

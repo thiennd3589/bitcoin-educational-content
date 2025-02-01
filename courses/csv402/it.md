@@ -3958,7 +3958,6 @@ Le opportunità aperte da questa compatibilità LN-RGB sono notevoli: monete sta
 
 <partId>b0baebfc-d146-5938-849a-f835fafb386f</partId>
 
-<isCourseConclusion>true</isCourseConclusion>
 
 ## Recensioni e valutazioni
 
@@ -3966,7 +3965,7 @@ Le opportunità aperte da questa compatibilità LN-RGB sono notevoli: monete sta
 
 <isCourseReview>true</isCourseReview>
 
-## Osservazioni conclusive
+## Conclusione
 
 <chapterId>0309536d-c336-56a0-869e-a8395ed8d9ae</chapterId>
 

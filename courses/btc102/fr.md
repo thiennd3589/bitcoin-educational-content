@@ -851,9 +851,6 @@ https://planb.network/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f
 
 Dans l'esprit du Parano, la prudence, la sécurité et l'anonymat sont primordiaux. Ces priorités dictent une approche délibérée et bien réfléchie de l'utilisation de Bitcoin, favorisant l'auto-suffisance et la prudence. Le Parano est prêt à investir du temps et des efforts pour assurer la sécurité et la confidentialité de ses bitcoin, tout en naviguant habilement dans l'écosystème pour éviter toute exposition inutile. Bien qu'il puisse sembler excessivement prudent pour certains, le Parano considère que sa diligence et son attention aux détails sont essentielles pour une participation réussie et sécurisée dans le monde du Bitcoin.
 
-# Le futur avec Bitcoin
-
-<partId>98199b14-ad0f-5da7-ae99-8e5f5819f153</partId>
 
 ## Création d'un plan d'héritage
 
@@ -1035,9 +1032,6 @@ Bravo! Vous avez une première version de votre plan d'héritage et c'est un exc
 _Cryptoasset Inheritance Planning, A simple guide for owners, Pamela Morgan, ESQ. Copyright 2018 by Merkle Bloom LLC, All rights reserved. CC-BY_ Un grand merci à Pamela Morgan pour son travail précieux et pour m'avoir autorisé à le partager. Merci également à tous ceux qui ont contribué à son écriture.
 Vous êtes les meilleurs :D Mon équipe et mes étudiants vous remercient également!
 
-# Remerciements et continuez à creuser le terrier du lapin
-
-<partId>2a6ec097-a3e7-5f1d-a1ec-ae2b0b199e40</partId>
 
 ## Féliciation ! VOUS ÊTES DANS LE TOP 0,1%
 

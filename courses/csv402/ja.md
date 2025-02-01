@@ -3954,19 +3954,18 @@ curl -X 'GET' \
 
 このLN-RGBの互換性によってもたらされる可能性は、Lightning上の安定したコイン、DEXのレイヤー2、非常に低コストでのカジキブルトークンやNFTの送金など、非常に大きい。これまでの章では、概念的なアーキテクチャと検証ロジックの概要を説明してきた。これで、将来の開発やテストのために、このようなノードを立ち上げて稼働させる方法について実践的な見解が得られたことになる。
 
-# 結論
+# まとめ
 
 <partId>b0baebfc-d146-5938-849a-f835fafb386f</partId>
 
-<isCourseConclusion>真</isCourseConclusion>。
 
 ## レビュー＆評価
 
 <chapterId>0217e8b0-942a-5fee-bd91-9a866551eff3</chapterId>
 
-<isCourseReview>真</isCourseReview>。
+<isCourseReview>true</isCourseReview>。
 
-## 閉会の辞
+## まとめ
 
 <chapterId>0309536d-c336-56a0-869e-a8395ed8d9ae</chapterId>
 

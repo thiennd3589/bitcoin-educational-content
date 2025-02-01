@@ -3958,7 +3958,6 @@ Tämän LN-RGB-yhteensopivuuden avaamat mahdollisuudet ovat huomattavat: vakaat 
 
 <partId>b0baebfc-d146-5938-849a-f835fafb386f</partId>
 
-<isCourseConclusion>true</isCourseConclusion>
 
 ## Arvostelut & arvostelut
 
@@ -3966,7 +3965,7 @@ Tämän LN-RGB-yhteensopivuuden avaamat mahdollisuudet ovat huomattavat: vakaat 
 
 <isCourseReview>true</isCourseReview>
 
-## Loppupuheenvuorot
+## Päätelmä
 
 <chapterId>0309536d-c336-56a0-869e-a8395ed8d9ae</chapterId>
 

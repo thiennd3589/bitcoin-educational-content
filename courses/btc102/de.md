@@ -813,10 +813,6 @@ https://planb.network/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f
 
 Im Geiste des Paranoikers sind Vorsicht, Sicherheit und Anonymität von größter Bedeutung. Diese Prioritäten bestimmen einen bewussten und wohlüberlegten Ansatz für die Verwendung von Bitcoin, der Selbstständigkeit und Vorsicht fördert. Der Paranoiker ist bereit, Zeit und Mühe zu investieren, um die Sicherheit und Vertraulichkeit seiner Bitcoins zu gewährleisten und geschickt im Ökosystem zu navigieren, um unnötige Exposition zu vermeiden. Obwohl er für manche übermäßig vorsichtig erscheinen mag, betrachtet der Paranoiker seine Sorgfalt und Aufmerksamkeit für Details als wesentlich für eine erfolgreiche und sichere Teilnahme an der Welt von Bitcoin.
 
-# Die Zukunft mit Bitcoin
-
-<partId>98199b14-ad0f-5da7-ae99-8e5f5819f153</partId>
-
 ## Erstellung eines Nachlassplans
 
 <chapterId>233c88d3-2e8e-5eba-ac06-efe67a209038</chapterId>
@@ -977,10 +973,6 @@ Lassen Sie uns nun unsere Arbeit überprüfen (Basierend auf "Cryptoasset Inheri
 
 _Cryptoasset Inheritance Planning, Ein einfacher Leitfaden für Besitzer, Pamela Morgan, ESQ. Copyright 2018 by Merkle Bloom LLC, Alle Rechte vorbehalten. CC-BY_ Ein herzliches Dankeschön an Pamela Morgan für ihre wertvolle Arbeit und dafür, dass sie mir erlaubt hat, sie zu teilen. Vielen Dank auch an alle, die zu ihrer Entstehung beigetragen haben.
 Sie sind die Besten :D Mein Team und meine Schüler danken Ihnen ebenfalls!
-
-# Dankeschön und weiterhin den Kaninchenbau erkunden
-
-<partId>2a6ec097-a3e7-5f1d-a1ec-ae2b0b199e40</partId>
 
 ## Herzlichen Glückwunsch! SIE GEHÖREN ZU DEN TOP 0,1%
 

@@ -3958,7 +3958,6 @@ Mulighetene som åpnes av denne LN-RGB-kompatibiliteten er betydelige: stablecoi
 
 <partId>b0baebfc-d146-5938-849a-f835fafb386f</partId>
 
-<isCourseConclusion>true</isCourseConclusion>
 
 ## Anmeldelser og rangeringer
 
@@ -3966,7 +3965,7 @@ Mulighetene som åpnes av denne LN-RGB-kompatibiliteten er betydelige: stablecoi
 
 <isCourseReview>true</isCourseReview>
 
-## Avsluttende bemerkninger
+## Konklusjon
 
 <chapterId>0309536d-c336-56a0-869e-a8395ed8d9ae</chapterId>
 

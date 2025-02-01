@@ -1271,38 +1271,4 @@ Finally, whether you are a small merchant or a more established business, it is 
 
 ## Conclusion
 <chapterId>5503c23e-3a90-4a23-8d89-75e3cc1ee53e</chapterId>
-
-We have now reached the end of the  BIZ101 training : "Kickstart your Company’s Journey on the Bitcoin Network". We hope it has provided valuable insights into how Bitcoin and the Lightning Network can transform your business operations. From understanding the nature of money and currency networks, to grasping the strategic importance of holding Bitcoin in treasury, and exploring the practical solutions for accepting Bitcoin payments, you’ve gained knowledge that connects fundamental theory with real-world application.
-
-If you use Bitcoin as part of your business, comprehension of these mechanisms enables you to confidently adopt best practices, leverage cost savings, improve your payment infrastructure, and strengthen financial resilience. By understanding how Bitcoin and Lightning payments work, you ensure that your company remains competitive in a rapidly evolving global marketplace.
-
-If you found this training helpful, we’d greatly appreciate your feedback. **Please consider rating and commenting on this course**, and feel free to share it within your professional network. Your support helps this knowledge reach more entrepreneurs and managers looking to benefit from Bitcoin’s capabilities.
-
-Ready to go further? To continue your journey, you might consider exploring additional courses on Plan ₿ Network. For instance, if you wish to deepen your understanding of the Bitcoin ecosystem, check out **BIZ102** in which you will go more in depth about Bitcoin fundamentals and practical applications, specifically tailored for future startup-builders, business students and professionals willing to work in the growing Bitcoin ecosystem in non-technical roles.
-
-We also invite you to explore other courses available on Plan ₿ Network such as:
-
-The Bitcoin Journey:
-
-https://planb.network/courses/btc101
-
-Getting your first Bitcoins:
-
-https://planb.network/courses/btc102
-
-Discover the economic thought of the Austrian School with:
-
-https://planb.network/courses/eco201
-
-Discover the history of Bitcoin's origins with:
-
-https://planb.network/courses/his201
-
-Discover the evolution of freedom through the ages with:
-
-https://planb.network/courses/phi201
-
-
-
-
-
+<isCourseConclusion>true</isCourseConclusion>

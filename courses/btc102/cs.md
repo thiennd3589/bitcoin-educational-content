@@ -799,10 +799,6 @@ https://planb.network/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f
 
 V myšlení paranoidního jedince jsou opatrnost, bezpečnost a anonymita na prvním místě. Tyto priority dikutují promyšlený a dobře zvážený přístup k používání Bitcoinu, podporují soběstačnost a opatrnost. Paranoidní jedinec je ochoten investovat čas a úsilí, aby zajistil bezpečnost a soukromí svých bitcoinů, zatímco zručně naviguje ekosystémem, aby se vyhnul zbytečnému vystavení. I když se to některým může zdát přehnaně opatrné, paranoidní jedinec považuje svou pečlivost a pozornost k detailům za nezbytné pro úspěšnou a bezpečnou účast ve světě Bitcoinu.
 
-# Budoucnost s Bitcoinem
-
-<partId>98199b14-ad0f-5da7-ae99-8e5f5819f153</partId>
-
 ## Vytvoření plánu dědictví
 
 <chapterId>233c88d3-2e8e-5eba-ac06-efe67a209038</chapterId>
@@ -978,10 +974,6 @@ Gratulujeme! Máte první verzi vašeho plánu dědictví a je to skvělý zač�
 
 _Plánování dědictví kryptoaktiv, Jednoduchý průvodce pro majitele, Pamela Morgan, ESQ. Copyright 2018 Merkle Bloom LLC, Všechna práva vyhrazena. CC-BY_ Velké díky Pamely Morgan za její cennou práci a za to, že mi umožnila ji sdílet. Díky také všem, kdo přispěli k jejímu napsání.
 Jste nejlepší :D Můj tým a moji studenti vám také děkují!
-
-# Poděkování a pokračujte ve sledování zajíce do díry
-
-<partId>2a6ec097-a3e7-5f1d-a1ec-ae2b0b199e40</partId>
 
 ## Gratulujeme! JSTE V TOP 0,1%
 

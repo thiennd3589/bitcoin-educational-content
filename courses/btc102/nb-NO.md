@@ -801,9 +801,6 @@ https://planb.network/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f
 
 I tankesettet til den paranoide personen er forsiktighet, sikkerhet og anonymitet av største viktighet. Disse prioriteringene dikterer en gjennomtenkt og veloverveid tilnærming til bruk av Bitcoin, fremmer selvstendighet og forsiktighet. Den paranoide personen er villig til å investere tid og krefter for å sikre sikkerheten og privatlivet til sine bitcoins mens de dyktig navigerer i økosystemet for å unngå unødvendig eksponering. Selv om det kan virke overforsiktig for noen, anser den paranoide personen sin grundighet og oppmerksomhet på detaljer som essensiell for vellykket og sikker deltakelse i Bitcoin-verdenen.
 
-# Fremtiden med Bitcoin
-
-<partId>98199b14-ad0f-5da7-ae99-8e5f5819f153</partId>
 
 ## Lage en arveplan
 
@@ -977,12 +974,6 @@ Gratulerer! Du har en første versjon av din arveplan, og det er en flott start!
 
 _Cryptoasset Inheritance Planning, En enkel guide for eiere, Pamela Morgan, ESQ. Copyright 2018 av Merkle Bloom LLC, Alle rettigheter forbeholdt. CC-BY_ En stor takk til Pamela Morgan for hennes verdifulle arbeid og for å tillate meg å dele det. Takk også til alle som bidro til dets skriving.
 Dere er de beste :D Mitt team og mine studenter takker deg også!
-
-# Anerkjennelser og fortsett å grave i kaninhullet
-
-<partId>2a6ec097-a3e7-5f1d-a1ec-ae2b0b199e40</partId>
-
-## Gratulerer! DU ER I TOPP 0.1%
 
 <chapterId>5f4cfab9-9af1-584b-a1fe-a0769a991f19</chapterId>
 

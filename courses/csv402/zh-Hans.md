@@ -3958,7 +3958,6 @@ curl -X 'GET' \
 
 <partId>b0baebfc-d146-5938-849a-f835fafb386f</partId>
 
-<isCourseConclusion>true</isCourseConclusion>（是课程结论）。
 
 ## 评论与评级
 
@@ -3966,8 +3965,8 @@ curl -X 'GET' \
 
 <isCourseReview>真</isCourseReview>。
 
-## 闭幕词
+## 结论
 
 <chapterId>0309536d-c336-56a0-869e-a8395ed8d9ae</chapterId>
 
-<isCourseConclusion>true</isCourseConclusion>（是课程结论）。
+<isCourseConclusion>true</isCourseConclusion>

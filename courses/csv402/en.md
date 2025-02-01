@@ -3958,15 +3958,13 @@ The opportunities opened up by this LN-RGB compatibility are considerable: stabl
 
 <partId>b0baebfc-d146-5938-849a-f835fafb386f</partId>
 
-<isCourseConclusion>true</isCourseConclusion>
-
 ## Reviews & Ratings
 
 <chapterId>0217e8b0-942a-5fee-bd91-9a866551eff3</chapterId>
 
 <isCourseReview>true</isCourseReview>
 
-## Closing remarks
+## Conclusion
 
 <chapterId>0309536d-c336-56a0-869e-a8395ed8d9ae</chapterId>
 

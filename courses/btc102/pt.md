@@ -820,9 +820,6 @@ https://planb.network/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f
 
 No espírito do Paranoico, a cautela, a segurança e o anonimato são primordiais. Essas prioridades ditam uma abordagem deliberada e bem pensada para o uso do Bitcoin, promovendo a auto-suficiência e a prudência. O Paranoico está disposto a investir tempo e esforço para garantir a segurança e privacidade de seus bitcoins, enquanto navega habilmente no ecossistema para evitar exposições desnecessárias. Embora possa parecer excessivamente cauteloso para alguns, o Paranoico considera sua diligência e atenção aos detalhes essenciais para uma participação bem-sucedida e segura no mundo do Bitcoin.
 
-# O futuro com o Bitcoin
-
-<partId>98199b14-ad0f-5da7-ae99-8e5f5819f153</partId>
 
 ## Criando um plano de herança
 
@@ -988,9 +985,6 @@ Vamos agora verificar nosso trabalho (De acordo com "Cryptoasset Inheritance Pla
 _Planejamento de Herança de Criptoativos, Um guia simples para proprietários, Pamela Morgan, ESQ. Copyright 2018 por Merkle Bloom LLC, Todos os direitos reservados. CC-BY_ Um grande obrigado a Pamela Morgan pelo seu valioso trabalho e por me permitir compartilhá-lo. Obrigado também a todos que contribuíram para sua escrita.
 Vocês são os melhores :D Minha equipe e meus alunos também agradecem!
 
-# Agradecimentos e continue a cavar a toca do coelho
-
-<partId>2a6ec097-a3e7-5f1d-a1ec-ae2b0b199e40</partId>
 
 ## Parabéns! VOCÊ ESTÁ NO TOP 0,1%
 

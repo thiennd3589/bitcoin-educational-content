@@ -3958,7 +3958,6 @@ Peluang yang dibuka oleh kompatibilitas LN-RGB ini cukup besar: stablecoin di Li
 
 <partId>b0baebfc-d146-5938-849a-f835fafb386f</partId>
 
-<isCourseConclusion>benar</isCourseConclusion>
 
 ## Ulasan & Peringkat
 
@@ -3966,8 +3965,8 @@ Peluang yang dibuka oleh kompatibilitas LN-RGB ini cukup besar: stablecoin di Li
 
 <isCourseReview>true</isCourseReview>
 
-## Kata penutup
+## Kesimpulan
 
 <chapterId>0309536d-c336-56a0-869e-a8395ed8d9ae</chapterId>
 
-<isCourseConclusion>benar</isCourseConclusion>
+<isCourseConclusion>true</isCourseConclusion>

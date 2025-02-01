@@ -800,9 +800,6 @@ https://planb.network/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f
 
 在偏执个体的心态中，谨慎、安全和匿名性占有至高无上的地位。这些事项优先要求我们在使用比特币时要保持慎重和周到，促进自给自足和谨慎。偏执个体愿意投入时间和努力来确保他们的比特币的安全和隐私，同时巧妙地导航生态系统以避免不必要的暴露。虽然一些人认为这太过于谨慎，但偏执用户们认为勤奋和十分关注细节的特点是关键的，让他们可以成功地且安全地加入比特币世界中。
 
-# 与比特币的未来
-
-<partId>98199b14-ad0f-5da7-ae99-8e5f5819f153</partId>
 
 ## 制定遗产计划
 
@@ -981,9 +978,6 @@ https://planb.network/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f
 _Cryptoasset Inheritance Planning, A simple guide for owners, Pamela Morgan, ESQ. Copyright 2018 by Merkle Bloom LLC, All rights reserved。CC-BY_ 非常感谢Pamela Morgan的富有价值的作品以及允许我分享它。也感谢所有参与其写作的人。
 您们是最棒的 :D 我的团队和我的学生也非常感谢你！
 
-# 致谢并继续探索未知
-
-<partId>2a6ec097-a3e7-5f1d-a1ec-ae2b0b199e40</partId>
 
 ## 恭喜！您已经进入了顶尖的0.1%
 

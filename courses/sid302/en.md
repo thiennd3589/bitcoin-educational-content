@@ -93,7 +93,7 @@ Antonio presents Breeze, an open-source SDK designed for decentralized transacti
 
 <partId>7ec65e6b-6e63-41b6-92ea-6a13bc77c3ff</partId>
 
-## Review
+## Reviews & Ratings
 
 <chapterId>e5f6348c-e207-40ae-8fef-6a068a6bf741</chapterId>
 

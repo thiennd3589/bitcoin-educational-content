@@ -800,9 +800,6 @@ https://planb.network/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f
 
 Paranoilise isiku mõtteviisis on ettevaatlikkus, turvalisus ja anonüümsus ülimad. Need prioriteedid dikteerivad läbimõeldud ja hästi kaalutletud lähenemise Bitcoini kasutamisele, edendades iseseisvust ja ettevaatlikkust. Paranoiline isik on valmis investeerima aega ja vaeva, et tagada oma bitcoinide turvalisus ja privaatsus, samal ajal oskuslikult navigeerides ökosüsteemis, et vältida tarbetut kokkupuudet. Kuigi mõne jaoks võib see tunduda liiga ettevaatlik, peab paranoiline isik oma hoolsust ja detailidele tähelepanu pööramist eduka ja turvalise osalemise jaoks Bitcoini maailmas hädavajalikuks.
 
-# Tulevik Bitcoini abil
-
-<partId>98199b14-ad0f-5da7-ae99-8e5f5819f153</partId>
 
 ## Pärandiplaani loomine
 
@@ -976,9 +973,6 @@ Palju õnne! Teil on esimene versioon oma pärandiplaanist ja see on suurepäran
 _Krüptoassetide Pärandamise Planeerimine, Lihtne juhend omanikele, Pamela Morgan, ESQ. Autoriõigus 2018 Merkle Bloom LLC poolt, Kõik õigused kaitstud. CC-BY_ Suur tänu Pamela Morganile tema väärtusliku töö eest ja luba seda jagada. Tänu ka kõigile, kes aitasid selle kirjutamisele kaasa.
 Te olete parimad :D Minu meeskond ja minu õpilased tänavad teid samuti!
 
-# Tunnustused ja jätkake küülikuurgu uurimist
-
-<partId>2a6ec097-a3e7-5f1d-a1ec-ae2b0b199e40</partId>
 
 ## Palju õnne! TE OLETE TOP 0.1%-S
 
