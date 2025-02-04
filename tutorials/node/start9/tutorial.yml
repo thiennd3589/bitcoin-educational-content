@@ -11,7 +11,7 @@ category: bitcoin
 level: advanced
 
 # Proofreading metadata
-projectId: 1c05cbf7-679c-4c8c-8adc-fb91397f950d
+project_id: 1c05cbf7-679c-4c8c-8adc-fb91397f950d
 original_language: en
 proofreading:
   - language: cs

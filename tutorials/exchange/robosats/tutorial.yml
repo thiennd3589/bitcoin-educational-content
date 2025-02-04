@@ -15,7 +15,7 @@ credits:
   link: https://bitcoiner.guide/robosats/
 
 # Proofreading metadata
-projectId: 0821d190-3990-4308-b69a-af5e3f161e70
+project_id: 0821d190-3990-4308-b69a-af5e3f161e70
 original_language: en
 proofreading:
   - language: cs

@@ -14,7 +14,7 @@ credits:
   professor: motor-chef
 
 # Proofreading metadata
-projectId: 06a7edcc-057f-446b-bef6-58b2686888dc
+project_id: 06a7edcc-057f-446b-bef6-58b2686888dc
 original_language: en
 proofreading:
   - language: cs

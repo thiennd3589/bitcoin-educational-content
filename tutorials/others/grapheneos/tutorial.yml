@@ -14,7 +14,7 @@ credits:
   link: https://bitcoiner.guide/grapheneos/
 
 # Proofreading metadata
-projectId: ce82f356-4662-4dad-ba0c-a0ec4f56cf2a
+project_id: ce82f356-4662-4dad-ba0c-a0ec4f56cf2a
 original_language: fr
 proofreading:
   - language: cs

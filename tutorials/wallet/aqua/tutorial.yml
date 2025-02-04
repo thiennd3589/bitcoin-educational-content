@@ -16,7 +16,7 @@ credits:
 
 # Proofreading metadata
 
-projectId: 28dd0137-b167-4e74-bc43-a5df60b93c00
+project_id: 28dd0137-b167-4e74-bc43-a5df60b93c00
 original_language: fr
 proofreading:
   - language: fr

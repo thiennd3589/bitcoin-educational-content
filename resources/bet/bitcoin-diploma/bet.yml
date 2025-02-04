@@ -10,7 +10,7 @@ contributors:
   - rabbit-hole
 
 # Proofreading metadata
-projectId: d32cad04-30b1-4790-a390-0b5f14724243
+project_id: d32cad04-30b1-4790-a390-0b5f14724243
 original_language: en
 proofreading:
   - language: cs

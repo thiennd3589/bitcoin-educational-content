@@ -14,7 +14,7 @@ credits:
   professor: pretty-private
 
 # Proofreading metadata
-projectId: 9b3cac51-1dd2-4333-83dc-dc1d3a972595
+project_id: 9b3cac51-1dd2-4333-83dc-dc1d3a972595
 original_language: fr
 proofreading:
   - language: cs

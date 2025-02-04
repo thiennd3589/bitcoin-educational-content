@@ -16,7 +16,7 @@ tags:
   - LND
 
 # Proofreading metadata
-projectId: db7cc106-432c-4571-a66a-1f68d024bca4
+project_id: db7cc106-432c-4571-a66a-1f68d024bca4
 original_language: en
 proofreading:
   - language: cs

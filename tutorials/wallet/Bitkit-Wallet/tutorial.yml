@@ -17,7 +17,7 @@ credits:
   link: https://help.bitkit.to
 
 # Proofreading metadata
-projectId: 86dbcf83-e4ea-4dbe-be90-b92f73eaa526
+project_id: 86dbcf83-e4ea-4dbe-be90-b92f73eaa526
 original_language: en
 proofreading:
   - language: en

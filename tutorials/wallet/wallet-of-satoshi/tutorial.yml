@@ -11,7 +11,7 @@ tags:
   - custodial
 
 # Proofreading metadata
-projectId: 6ca330b1-d19c-470e-93a7-98bce38ff0f5
+project_id: 6ca330b1-d19c-470e-93a7-98bce38ff0f5
 original_language: en
 proofreading:
   - language: cs

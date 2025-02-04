@@ -14,7 +14,7 @@ credits:
   link: https://www.pandul.fr/post/bip47-paynym-et-code-de-paiement-r%C3%A9utilisable#viewer-1cdv8
 
 # Proofreading metadata
-projectId: f8ab03d0-0308-4ac1-a223-9c8e7600ff63
+project_id: f8ab03d0-0308-4ac1-a223-9c8e7600ff63
 original_language: fr
 proofreading:
   - language: cs

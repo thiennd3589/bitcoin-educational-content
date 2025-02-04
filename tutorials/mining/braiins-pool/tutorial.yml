@@ -13,7 +13,7 @@ credits:
   professor: case-memory
 
 # Proofreading metadata
-projectId: 9c8ef98b-a33c-4ccc-8d72-43299a47887b
+project_id: 9c8ef98b-a33c-4ccc-8d72-43299a47887b
 original_language: en
 proofreading:
   - language: cs

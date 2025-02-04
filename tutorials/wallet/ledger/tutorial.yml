@@ -14,7 +14,7 @@ credits:
   link: https://armantheparman.com/ledgersparrow/
 
 # Proofreading metadata
-projectId: 21e68928-68a3-468f-9c18-2b25a045c540
+project_id: 21e68928-68a3-468f-9c18-2b25a045c540
 original_language: en
 proofreading:
   - language: cs

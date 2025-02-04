@@ -14,7 +14,7 @@ credits:
   link: https://agora256.com/installer-tails-usb/
 
 # Proofreading metadata
-projectId: 9e7a387c-0583-4c05-83ff-8b5c5a48bdf8
+project_id: 9e7a387c-0583-4c05-83ff-8b5c5a48bdf8
 original_language: fr
 proofreading:
   - language: cs

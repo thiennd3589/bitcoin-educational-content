@@ -11,7 +11,7 @@ category: centralized
 level: intermediate
 
 # Proofreading metadata
-projectId: a619c7ac-9adb-481e-93e2-62a11c8fe2e0
+project_id: a619c7ac-9adb-481e-93e2-62a11c8fe2e0
 original_language: en
 proofreading:
   - language: cs

@@ -14,7 +14,7 @@ contributors:
   - another-satoshi
 
 # Proofreading metadata
-projectId: d047bf01-6b1c-4fcb-92ec-84f20305b47e
+project_id: d047bf01-6b1c-4fcb-92ec-84f20305b47e
 original_language: es
 proofreading:
   - language: es

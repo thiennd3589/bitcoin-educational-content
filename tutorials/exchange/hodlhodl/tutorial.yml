@@ -11,7 +11,7 @@ tags:
   - light-KYC
 
 # Proofreading metadata
-projectId: 120557b9-b1e6-4969-aff4-5bf46fff9869
+project_id: 120557b9-b1e6-4969-aff4-5bf46fff9869
 original_language: en
 proofreading:
   - language: cs

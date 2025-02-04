@@ -14,7 +14,7 @@ credits:
   link: https://agora256.com/nostr/
 
 # Proofreading metadata
-projectId: 1440e595-1f1b-45cc-a687-8a0cd73655ce
+project_id: 1440e595-1f1b-45cc-a687-8a0cd73655ce
 original_language: fr
 proofreading:
   - language: cs

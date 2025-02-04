@@ -10,7 +10,7 @@ tags:
   - full KYC
 
 # Proofreading metadata
-projectId: c028a416-60f5-4522-ae7e-5a3fdbb50c2a
+project_id: c028a416-60f5-4522-ae7e-5a3fdbb50c2a
 original_language: en
 proofreading:
   - language: cs
