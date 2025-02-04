@@ -15,6 +15,7 @@ category: bitcoin
 level: advanced
 
 # Proofreading metadata
+projectId: 247fdee7-bcb2-4b03-acbc-c9d196e473d2
 original_language: en
 proofreading:
   - language: cs
@@ -89,4 +90,3 @@ proofreading:
     contributors_id:
     reward: 15565
 
-projectId: 247fdee7-bcb2-4b03-acbc-c9d196e473d2

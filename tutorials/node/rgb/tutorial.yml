@@ -15,6 +15,7 @@ category: rgb
 level: advanced
 
 # Proofreading metadata
+projectId: f2c51dbd-d56d-4319-a026-2013833cc23f
 original_language: en
 proofreading:
   - language: cs
@@ -89,4 +90,3 @@ proofreading:
     contributors_id:
     reward: 27610
 
-projectId: f2c51dbd-d56d-4319-a026-2013833cc23f

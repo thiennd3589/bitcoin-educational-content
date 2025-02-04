@@ -13,6 +13,7 @@ credits:
   link: https://blog.summerofbitcoin.org/bitcoin-lightning-and-the-eye-of-satoshi-watchtower-revolutionizing-transactions-and-security//
 
 # Proofreading metadata
+projectId: 40e94647-f642-4982-97fe-8fc2e98990bd
 original_language: en
 proofreading:
   - language: cs
@@ -87,4 +88,3 @@ proofreading:
     contributors_id:
     reward: 7810
 
-projectId: 40e94647-f642-4982-97fe-8fc2e98990bd

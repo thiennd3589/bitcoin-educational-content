@@ -10,6 +10,7 @@ level: intermediate
 category: hardware
 
 # Proofreading metadata
+projectId: 0fbcc87c-3be1-4e2f-8f3f-5116db036d32
 original_language: en
 proofreading:
   - language: cs
@@ -84,4 +85,3 @@ proofreading:
     contributors_id:
     reward: 8355
 
-projectId: 0fbcc87c-3be1-4e2f-8f3f-5116db036d32

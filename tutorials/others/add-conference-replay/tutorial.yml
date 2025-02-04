@@ -15,6 +15,7 @@ credits:
   professor: pretty-private
 
 # Proofreading metadata
+projectId: cd62a137-baad-4133-b90d-711963e510c7
 original_language: fr
 proofreading:
   - language: en
@@ -89,4 +90,3 @@ proofreading:
     contributors_id:
     reward: 7237
 
-projectId: cd62a137-baad-4133-b90d-711963e510c7

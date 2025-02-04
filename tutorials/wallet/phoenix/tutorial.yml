@@ -11,6 +11,7 @@ tags:
   - self-custodial
 
 # Proofreading metadata
+projectId: 0c272f89-0633-41b5-8d03-a37682738985
 original_language: en
 proofreading:
   - language: cs
@@ -85,4 +86,3 @@ proofreading:
     contributors_id:
     reward: 10580
 
-projectId: 0c272f89-0633-41b5-8d03-a37682738985

@@ -10,6 +10,7 @@ contributors:
   - rabbit-hole
 
 # Proofreading metadata
+projectId: 77f56919-1875-45ab-8c4c-b8fb26b021de
 original_language: en
 proofreading:
   - language: cs
@@ -84,4 +85,3 @@ proofreading:
     contributors_id:
     reward: 2520
 
-projectId: 77f56919-1875-45ab-8c4c-b8fb26b021de

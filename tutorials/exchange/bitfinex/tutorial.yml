@@ -15,6 +15,7 @@ credits:
 
 # Proofreading metadata
 
+projectId: 3ad86f15-94ef-401c-b708-b28c7767b9be
 original_language: fr
 proofreading:
   - language: fr
@@ -23,4 +24,3 @@ proofreading:
     contributors_id:
       - LoicPandul
     reward: 0
-projectId: 3ad86f15-94ef-401c-b708-b28c7767b9be

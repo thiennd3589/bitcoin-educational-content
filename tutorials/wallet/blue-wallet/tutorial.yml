@@ -15,6 +15,7 @@ credits:
   link: https://agora256.com/bluewallet-une-introduction/
 
 # Proofreading metadata
+projectId: 448e0634-3970-4863-8e50-08c658e8374d
 original_language: en
 proofreading:
   - language: cs
@@ -90,4 +91,3 @@ proofreading:
     contributors_id:
     reward: 3367
 
-projectId: 448e0634-3970-4863-8e50-08c658e8374d

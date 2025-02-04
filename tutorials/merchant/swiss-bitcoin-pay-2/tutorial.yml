@@ -15,6 +15,7 @@ credits:
 
 
 # Proofreading metadata
+projectId: 8a053a83-22a4-4d61-8a8b-26f3ae74b9c1
 original_language: fr
 proofreading:
   - language: fr
@@ -89,4 +90,3 @@ proofreading:
     contributors_id:
     reward: 10813
 
-projectId: 8a053a83-22a4-4d61-8a8b-26f3ae74b9c1

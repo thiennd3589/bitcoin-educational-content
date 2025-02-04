@@ -11,6 +11,7 @@ tags:
   - bitcoin-only
 
 # Proofreading metadata
+projectId: 9a5bbbc3-22ac-4c98-b10a-c953f9fae337
 original_language: en
 proofreading:
   - language: cs
@@ -85,4 +86,3 @@ proofreading:
     contributors_id:
     reward: 12070
 
-projectId: 9a5bbbc3-22ac-4c98-b10a-c953f9fae337
