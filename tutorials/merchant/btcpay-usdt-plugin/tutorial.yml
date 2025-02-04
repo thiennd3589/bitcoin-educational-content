@@ -19,8 +19,8 @@ original_language: en
 proofreading:
   - language: en
     last_contribution_date: 2025-01-27
-    urgency:
+    urgency: 1
     contributors_id:
       - LoicPandul
-    reward:
+    reward: 0
 projectId: c61cbdad-03bc-4178-9d8d-0b5b7c1141a0

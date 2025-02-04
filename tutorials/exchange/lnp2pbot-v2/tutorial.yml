@@ -20,9 +20,9 @@ original_language: fr
 proofreading:
   - language: fr
     last_contribution_date: 2024-12-09
-    urgency:
+    urgency: 1
     contributors_id:
       - Pivii
-    reward:
+    reward: 0
 
 projectId: 937f27f8-6ea6-497e-a7e4-9dd97852d050
