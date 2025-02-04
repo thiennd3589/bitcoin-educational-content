@@ -16,6 +16,7 @@ credits:
 
 # Proofreading metadata
 
+projectId: aa91f010-ea13-44f1-ac91-d3f02aea8f21
 original_language: fr
 proofreading:
   - language: fr
@@ -23,6 +24,5 @@ proofreading:
     urgency: 1
     contributors_id:
       - lugaxker
-    reward: 0
+    reward: 2.58
 
-projectId: aa91f010-ea13-44f1-ac91-d3f02aea8f21
